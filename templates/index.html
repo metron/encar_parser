@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Encar Lending</title>
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    {% for d in data.values() %}
+        <div>
+            <span>
+                <img src="images/{{ d.img }}" class="img">
+                <div>
+                    <span><b>Марка:</b> {{ d.mark }}</span>
+                </div>
+                <div style="margin-bottom: 20px;">
+                    <span><b>Год:</b> {{ d.year }}</span>
+                    <span><b>Пробег:</b> {{ d.mileage }} км</span>
+                    <span><b>Цена:</b> {{ d.price }} вон</span>
+                </div>
+            </span>
+        </div>
+    {% endfor %}
+</body>
+</html>
