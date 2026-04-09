@@ -1,1542 +1,2613 @@
 {
-  "41623743": {
-    "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \ub514\uc824 2.0 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2021,
-    "mileage": "109,217",
-    "price": "2,100",
-    "img": "41623743_001.jpg"
-  },
-  "41340043": {
-    "mark": "\uae30\uc544 \uc62c \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \ud504\ub808\uc2a4\ud2f0\uc9c0 \ud558\uc774\ub8e8\ud504",
-    "year": 2016,
-    "mileage": "74,140",
-    "price": "1,750",
-    "img": "41340043_027.jpg"
-  },
-  "41075233": {
-    "mark": "\uc544\uc6b0\ub514 \ub274 A4 30 TDI B8",
-    "year": 2015,
-    "mileage": "69,015",
-    "price": "980",
-    "img": "41075233_001.jpg"
-  },
-  "41518016": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E250 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2022,
-    "mileage": "79,542",
-    "price": "3,940",
-    "img": "41518016_001.jpg"
-  },
-  "41495349": {
-    "mark": "\ud3ec\ub974\uc250 \ud0c0\uc774\uce78 \ubca0\uc774\uc2a4",
-    "year": 2024,
-    "mileage": "27,189",
-    "price": "11,990",
-    "img": "41495349_001.jpg"
-  },
-  "41745569": {
-    "mark": "\uae30\uc544 \ub354 \ub274 K9 2\uc138\ub300 3.8 GDI AWD \ubca0\uc2a4\ud2b8 \uc140\ub809\uc158 \u2160",
-    "year": 2022,
-    "mileage": "57,000",
-    "price": "4,290",
-    "img": "41745569_001.jpg"
-  },
-  "41730154": {
-    "mark": "\ud604\ub300 \uc544\ubc18\ub5bc \ud558\uc774\ube0c\ub9ac\ub4dc (CN7) \uc2a4\ub9c8\ud2b8",
-    "year": 2021,
-    "mileage": "91,245",
-    "price": "1,390",
-    "img": "41730154_001.jpg"
-  },
-  "41733809": {
-    "mark": "Genesis G90 (RS4) \u0411\u0435\u043d\u0437\u0438\u043d 3.5 Turbo AWD",
-    "year": 2023,
-    "mileage": "51,231",
-    "price": "6,250",
-    "img": "41733809_001.jpg"
-  },
-  "41730805": {
-    "mark": "\ub9c8\uc138\ub77c\ud2f0 \ub974\ubc18\ub5bc 3.0 AWD \ub7ed\uc154\ub9ac",
-    "year": 2017,
-    "mileage": "115,635",
-    "price": "2,690",
-    "img": "41730805_001.jpg"
-  },
-  "41732768": {
-    "mark": "\ubca4\uce20 CLE-\ud074\ub798\uc2a4 C236 CLE450 4MATIC \ucfe0\ud398",
-    "year": 2024,
-    "mileage": "18,837",
-    "price": "6,950",
-    "img": "41732768_001.jpg"
-  },
-  "41451770": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2021,
-    "mileage": "77,659",
-    "price": "3,780",
-    "img": "41451770_001.jpg"
-  },
-  "41181914": {
-    "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 4\uc138\ub300 5.0 SC AB",
-    "year": 2021,
-    "mileage": "110,761",
-    "price": "8,250",
-    "img": "41181914_001.jpg"
-  },
-  "41558610": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
-    "year": 2021,
-    "mileage": "74,868",
-    "price": "1,690",
-    "img": "41558610_027.jpg"
-  },
-  "41203833": {
-    "mark": "\ud604\ub300 \ubca0\ub274 1.6 \uc2a4\ub9c8\ud2b8",
-    "year": 2020,
-    "mileage": "38,914",
-    "price": "1,290",
-    "img": "41203833_001.jpg"
-  },
-  "41457837": {
-    "mark": "\uc9c0\ud504 \uae00\ub798\ub514\uc5d0\uc774\ud130 (JT) 3.6 \ub8e8\ube44\ucf58",
-    "year": 2022,
-    "mileage": "3,051",
-    "price": "5,560",
-    "img": "41457837_001.jpg"
-  },
-  "41764547": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2024,
-    "mileage": "11,667",
-    "price": "3,470",
-    "img": "41764547_001.jpg"
-  },
-  "41127494": {
-    "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \ubca8\ub77c 3.0 P400 \ub2e4\uc774\ub098\ubbf9 HSE",
-    "year": 2025,
-    "mileage": "4,514",
-    "price": "8,889",
-    "img": "41127494_027.jpg"
-  },
-  "39671427": {
-    "mark": "BMW 7\uc2dc\ub9ac\uc988 (G11) 740Ld xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2017,
-    "mileage": "152,951",
-    "price": "3,390",
-    "img": "39671427_001.jpg"
-  },
-  "41037281": {
-    "mark": "BMW X5 (G05) xDrive 45e xLine",
-    "year": 2023,
-    "mileage": "17,630",
-    "price": "8,299",
-    "img": "41037281_001.jpg"
-  },
-  "41316336": {
-    "mark": "\ubca4\uce20 C-\ud074\ub798\uc2a4 W206 C300 4MATIC \uc544\ubc29\uac00\ub974\ub4dc",
-    "year": 2023,
-    "mileage": "28,512",
-    "price": "4,550",
-    "img": "41316336_027.jpg"
-  },
-  "41690788": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.5T \uac00\uc194\ub9b0 AWD",
-    "year": 2021,
-    "mileage": "76,890",
-    "price": "5,040",
-    "img": "41690788_001.jpg"
-  },
-  "41727392": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2023,
-    "mileage": "43,852",
-    "price": "3,765",
-    "img": "41727392_001.jpg"
-  },
-  "41682764": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2023,
-    "mileage": "38,585",
-    "price": "3,615",
-    "img": "41682764_001.jpg"
-  },
-  "41406418": {
-    "mark": "\uae30\uc544 K3 \ud2b8\ub80c\ub514",
-    "year": 2014,
-    "mileage": "71,277",
-    "price": "780",
-    "img": "41406418_001.jpg"
-  },
-  "41631199": {
-    "mark": "\uae30\uc544 \ub354 \ub274 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 2\uc138\ub300 \ub178\ube14\ub808\uc2a4",
-    "year": 2018,
-    "mileage": "133,932",
-    "price": "1,390",
-    "img": "41631199_001.jpg"
-  },
-  "41676018": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \ub514\uc824 2.2 2WD \ub178\ube14\ub808\uc2a4",
-    "year": 2021,
-    "mileage": "73,383",
-    "price": "2,930",
-    "img": "41676018_001.jpg"
-  },
-  "41094155": {
-    "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ub274 \ub77c\uc774\uc988 2.0 \ubaa8\ub358",
-    "year": 2017,
-    "mileage": "84,685",
-    "price": "1,410",
-    "img": "41094155_001.jpg"
-  },
-  "41439226": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 QM6 2.0 LPe RE \uc2dc\uadf8\ub2c8\ucc98 2WD",
-    "year": 2019,
-    "mileage": "80,953",
-    "price": "1,750",
-    "img": "41439226_001.jpg"
-  },
-  "41451557": {
-    "mark": "\uae30\uc544 \uc62c \ub274 \ubaa8\ub2dd \ub7ed\uc154\ub9ac",
-    "year": 2014,
-    "mileage": "95,575",
-    "price": "570",
-    "img": "41451557_001.jpg"
-  },
-  "41371379": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 3.5 \ud130\ubcf4 AWD",
-    "year": 2021,
-    "mileage": "52,964",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41371379_001.jpg"
-  },
-  "41258804": {
-    "mark": "\ud604\ub300 \uc2fc\ud0c0\ud398 \ub354 \ud504\ub77c\uc784 \ub514\uc824 2.0 2WD \ubc38\ub958 \ud50c\ub7ec\uc2a4",
-    "year": 2017,
-    "mileage": "114,521",
-    "price": "1,399",
-    "img": "41258804_001.jpg"
-  },
-  "41666855": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 5\uc778\uc2b9 \ud50c\ub798\ud2f0\ub118",
-    "year": 2023,
-    "mileage": "90,306",
-    "price": "3,450",
-    "img": "41666855_001.jpg"
-  },
-  "41739429": {
-    "mark": "\ubbf8\ub2c8 \ucfe0\ud37c \ucee8\ud2b8\ub9ac\ub9e8 HIGH 2\uc138\ub300",
-    "year": 2020,
-    "mileage": "94,120",
-    "price": "1,750",
-    "img": "41739429_001.jpg"
-  },
-  "39775957": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 2.5 \ud130\ubcf4 AWD",
-    "year": 2024,
-    "mileage": "22,469",
-    "price": "6,090",
-    "img": "39775957_001.jpg"
-  },
-  "41027576": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.0 \ub514\uc824 AWD",
-    "year": 2022,
-    "mileage": "109,533",
-    "price": "4,850",
-    "img": "41027576_001.jpg"
-  },
-  "41756546": {
-    "mark": "\ud604\ub300 \uadf8\ub79c\uc800 HG \ud558\uc774\ube0c\ub9ac\ub4dc \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2016,
-    "mileage": "161,308",
-    "price": "930",
-    "img": "41756546_001.jpg"
-  },
-  "41539384": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 SM6 1.3 TCe \ud544",
-    "year": 2025,
-    "mileage": "308",
-    "price": "2,950",
-    "img": "41539384_001.jpg"
-  },
-  "41596450": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 SM6 1.3 TCe \ud544",
-    "year": 2024,
-    "mileage": "8,298",
-    "price": "2,750",
-    "img": "41596450_001.jpg"
-  },
-  "41530702": {
-    "mark": "\uae30\uc544 \ub354 \ub274 K3 2\uc138\ub300 1.6 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2022,
-    "mileage": "47,414",
-    "price": "2,430",
-    "img": "41530702_001.jpg"
-  },
-  "41517885": {
-    "mark": "\ud3ed\uc2a4\ubc14\uac90 \uace8\ud504 8\uc138\ub300 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2022,
-    "mileage": "47,348",
-    "price": "3,350",
-    "img": "41517885_001.jpg"
-  },
-  "41573928": {
-    "mark": "\uc9c0\ud504 \uae00\ub798\ub514\uc5d0\uc774\ud130 (JT) 3.6 \ub8e8\ube44\ucf58",
-    "year": 2022,
-    "mileage": "35,885",
-    "price": "4,430",
-    "img": "41573928_001.jpg"
-  },
-  "41109335": {
-    "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
-    "year": 2021,
-    "mileage": "109,458",
-    "price": "2,820",
-    "img": "41109335_001.jpg"
-  },
-  "39980429": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI AWD \ub7ed\uc154\ub9ac",
-    "year": 2018,
-    "mileage": "91,949",
-    "price": "1,830",
-    "img": "39980429_001.jpg"
-  },
-  "41659997": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 HEV 7\uc778\uc2b9 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2024,
-    "mileage": "52,669",
-    "price": "4,790",
-    "img": "41659997_001.jpg"
-  },
-  "41079598": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.5T \uac00\uc194\ub9b0 AWD",
-    "year": 2021,
-    "mileage": "80,526",
-    "price": "4,699",
-    "img": "41079598_001.jpg"
-  },
-  "41724679": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \uac00\uc194\ub9b0 2.5T 2WD \ub178\ube14\ub808\uc2a4",
-    "year": 2024,
-    "mileage": "16,941",
-    "price": "3,530",
-    "img": "41724679_001.jpg"
-  },
-  "41695526": {
-    "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
-    "year": 2021,
-    "mileage": "41,983",
-    "price": "4,250",
-    "img": "41695526_001.jpg"
-  },
-  "41734279": {
-    "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
-    "year": 2021,
-    "mileage": "92,437",
-    "price": "2,690",
-    "img": "41734279_001.jpg"
-  },
-  "41730048": {
-    "mark": "Hyundai Santa Fe (MX5) HEV 1.6 2WD Calligraphy",
-    "year": 2025,
-    "mileage": "2,284",
-    "price": "4,750",
-    "img": "41730048_001.jpg"
-  },
-  "41723675": {
-    "mark": "\ud604\ub300 \uadf8\ub79c\uc800 \ud558\uc774\ube0c\ub9ac\ub4dc (GN7) \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2025,
-    "mileage": "5,215",
-    "price": "4,350",
-    "img": "41723675_001.jpg"
-  },
-  "41713955": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud2b8\ub799\uc2a4 \ud06c\ub85c\uc2a4\uc624\ubc84 1.2 ACTIV",
-    "year": 2025,
-    "mileage": "5,166",
-    "price": "2,450",
-    "img": "41713955_001.jpg"
-  },
-  "41764250": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub274QM3 RE",
-    "year": 2018,
-    "mileage": "89,749",
-    "price": "990",
-    "img": "41764250_001.jpg"
-  },
-  "41620702": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
-    "year": 2022,
-    "mileage": "25,152",
-    "price": "1,380",
-    "img": "41620702_001.jpg"
-  },
-  "41705697": {
-    "mark": "\uae30\uc544 \uc140\ud1a0\uc2a4 \ub514\uc824 1.6 2WD \ub178\ube14\ub808\uc2a4",
-    "year": 2020,
-    "mileage": "116,108",
-    "price": "1,640",
-    "img": "41705697_001.jpg"
-  },
-  "41661329": {
-    "mark": "\uae30\uc544 \uc140\ud1a0\uc2a4 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2022,
-    "mileage": "60,304",
-    "price": "2,320",
-    "img": "41661329_001.jpg"
-  },
-  "41658996": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uc544\ubc18\ub5bc AD 1.6 \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2019,
-    "mileage": "8,648",
-    "price": "1,540",
-    "img": "41658996_001.jpg"
-  },
-  "41641999": {
-    "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
-    "year": 2021,
-    "mileage": "68,912",
-    "price": "3,380",
-    "img": "41641999_001.jpg"
-  },
-  "41597987": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ub354 \ub274 \ud2b8\ub808\uc77c\ube14\ub808\uc774\uc800 1.3 \ud130\ubcf4 2WD RS",
-    "year": 2024,
-    "mileage": "19,900",
-    "price": "2,450",
-    "img": "41597987_001.jpg"
-  },
-  "41564075": {
-    "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ud558\uc774\ube0c\ub9ac\ub4dc (DN8) \ubaa8\ub358",
-    "year": 2022,
-    "mileage": "103,077",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41564075_001.jpg"
-  },
-  "41192475": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \ub514\uc824 2.2 2WD \ub178\ube14\ub808\uc2a4",
-    "year": 2021,
-    "mileage": "61,969",
-    "price": "2,760",
-    "img": "41192475_001.jpg"
-  },
-  "41655227": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
-    "year": 2022,
-    "mileage": "84,387",
-    "price": "1,260",
-    "img": "41655227_001.jpg"
-  },
-  "41564082": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 9\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2024,
-    "mileage": "46,587",
-    "price": "5,990",
-    "img": "41564082_001.jpg"
-  },
-  "41665618": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
-    "year": 2022,
-    "mileage": "84,616",
-    "price": "1,260",
-    "img": "41665618_001.jpg"
-  },
-  "41315637": {
-    "mark": "\uae30\uc544 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 3\uc138\ub300 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2021,
-    "mileage": "54,901",
-    "price": "2,670",
-    "img": "41315637_001.jpg"
-  },
-  "41495088": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c \uac00\uc194\ub9b0 7\uc778\uc2b9 \ub9ac\ubb34\uc9c4 \ud504\ub808\uc9c0\ub358\ud2b8",
-    "year": 2018,
-    "mileage": "153,025",
-    "price": "1,750",
-    "img": "41495088_001.jpg"
-  },
-  "41723032": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud06c\ub8e8\uc9885 1.8 LTZ+",
-    "year": 2013,
-    "mileage": "108,877",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41723032_001.jpg"
-  },
-  "40791871": {
-    "mark": "Hyundai Santa Fe (MX5) HEV 1.6 2WD Calligraphy",
-    "year": 2023,
-    "mileage": "47,610",
-    "price": "3,920",
-    "img": "40791871_001.jpg"
-  },
-  "40591164": {
-    "mark": "BMW 6\uc2dc\ub9ac\uc988 GT (G32) 640i xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2018,
-    "mileage": "92,771",
-    "price": "4,530",
-    "img": "40591164_001.jpg"
-  },
-  "41213238": {
-    "mark": "\ud3ec\ub974\uc250 \ud30c\ub098\uba54\ub77c (971) 2.9 AWD \ud50c\ub798\ud2f0\ub118 \uc5d0\ub514\uc158",
-    "year": 2023,
-    "mileage": "21,304",
-    "price": "13,980",
-    "img": "41213238_027.jpg"
-  },
-  "41227821": {
-    "mark": "\uae30\uc544 \ub354 K9 3.8 GDI AWD \ubca0\uc2a4\ud2b8 \uc140\ub809\uc158\u2160",
-    "year": 2020,
-    "mileage": "71,197",
-    "price": "2,770",
-    "img": "41227821_001.jpg"
-  },
-  "41237751": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 GV60 \uc2a4\ud0e0\ub2e4\ub4dc",
-    "year": 2023,
-    "mileage": "28,887",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41237751_001.jpg"
-  },
-  "41190000": {
-    "mark": "\uae30\uc544 \ub354 K9 3.3 T-GDI AWD \ub9c8\uc2a4\ud130\uc988 \u2161",
-    "year": 2018,
-    "mileage": "72,593",
-    "price": "2,630",
-    "img": "41190000_001.jpg"
-  },
-  "41193723": {
-    "mark": "\ubca4\uce20 GLC-\ud074\ub798\uc2a4 X253 GLC300 4MATIC \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2021,
-    "mileage": "35,483",
-    "price": "4,790",
-    "img": "41193723_001.jpg"
-  },
-  "41192229": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2020,
-    "mileage": "85,225",
-    "price": "1,250",
-    "img": "41192229_001.jpg"
-  },
-  "41153891": {
-    "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 4WD \ub77c\uc6b4\uc9c0 9\uc778\uc2b9 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
-    "year": 2022,
-    "mileage": "11,716",
-    "price": "4,799",
-    "img": "41153891_001.jpg"
-  },
-  "41125994": {
-    "mark": "\ud604\ub300 \uc544\ubc18\ub5bc (CN7) 2.0 N",
-    "year": 2022,
-    "mileage": "9,953",
-    "price": "2,740",
-    "img": "41125994_001.jpg"
-  },
-  "39543451": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub274SM5 \ud50c\ub798\ud2f0\ub118 RE \uae30\ubcf8\ud615",
-    "year": 2012,
-    "mileage": "153,735",
-    "price": "309",
-    "img": "39543451_001.jpg"
-  },
-  "41223478": {
-    "mark": "\ud3ec\ub4dc \ubaac\ub370\uc624 4\uc138\ub300 2.0 \ud2b8\ub80c\ub4dc",
-    "year": 2020,
-    "mileage": "40,970",
-    "price": "1,840",
-    "img": "41223478_001.jpg"
-  },
-  "41231406": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 R \ub514\uc824 2.0 2WD TLX \ucd5c\uace0\uae09\ud615",
-    "year": 2012,
-    "mileage": "151,906",
-    "price": "500",
-    "img": "41231406_001.jpg"
-  },
-  "41212991": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud2b8\ub799\uc2a4 \ud06c\ub85c\uc2a4\uc624\ubc84 1.2 ACTIV",
-    "year": 2025,
-    "mileage": "2,524",
-    "price": "2,580",
-    "img": "41212991_027.jpg"
-  },
-  "41210972": {
-    "mark": "BMW 6\uc2dc\ub9ac\uc988 GT (G32) 630i xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2024,
-    "mileage": "43,687",
-    "price": "6,630",
-    "img": "41210972_027.jpg"
-  },
-  "41194592": {
-    "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 \ud22c\uc5b4\ub7ec 9\uc778\uc2b9 \ubaa8\ub358",
-    "year": 2023,
-    "mileage": "37,543",
-    "price": "3,540",
-    "img": "41194592_001.jpg"
-  },
-  "41195573": {
-    "mark": "\uae30\uc544 \ubaa8\ub2dd \uc5b4\ubc18 (JA) \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2020,
-    "mileage": "41,506",
-    "price": "1,020",
-    "img": "41195573_001.jpg"
-  },
-  "41182146": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ud2f0\ubcfc\ub9ac \uc544\uba38 VX 2WD",
-    "year": 2017,
-    "mileage": "63,222",
-    "price": "1,000",
-    "img": "41182146_001.jpg"
-  },
-  "41187815": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
-    "year": 2022,
-    "mileage": "50,327",
-    "price": "1,599",
-    "img": "41187815_001.jpg"
-  },
-  "41145491": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc62c\ub780\ub3c4 LPG LT \uc138\uc774\ud504\ud2f0\ud329",
-    "year": 2016,
-    "mileage": "110,520",
-    "price": "600",
-    "img": "41145491_001.jpg"
-  },
-  "41145274": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc5b4\uba54\uc774\uc9d5 \ub274 \ud06c\ub8e8\uc988 1.8 LT \ub514\ub7ed\uc2a4\ud329",
-    "year": 2016,
-    "mileage": "127,675",
-    "price": "429",
-    "img": "41145274_001.jpg"
-  },
-  "41123273": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G90 5.0 AWD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "157,220",
-    "price": "2,990",
-    "img": "41123273_001.jpg"
-  },
-  "40845410": {
-    "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
-    "year": 2020,
-    "mileage": "70,694",
-    "price": "2,600",
-    "img": "40845410_001.jpg"
-  },
-  "40787406": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2021,
-    "mileage": "25,467",
-    "price": "1,330",
-    "img": "40787406_001.jpg"
-  },
-  "40790316": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ubdf0\ud2f0\ud480 \ucf54\ub780\ub3c4 \uac00\uc194\ub9b0 1.5 2WD R-\ud50c\ub7ec\uc2a4",
-    "year": 2020,
-    "mileage": "26,916",
-    "price": "1,799",
-    "img": "40790316_027.jpg"
-  },
-  "40792665": {
-    "mark": "\ubbf8\ub2c8 \ucfe0\ud37c D \uae30\ubcf8\ud615 3\uc138\ub300",
-    "year": 2014,
-    "mileage": "229,185",
-    "price": "590",
-    "img": "40792665_001.jpg"
-  },
-  "40903671": {
-    "mark": "\uc9c0\ud504 \uadf8\ub79c\ub4dc \uccb4\ub85c\ud0a4 3.0 \ub514\uc824 \uc624\ubc84\ub79c\ub4dc\uc11c\ubc0b WK2",
-    "year": 2018,
-    "mileage": "132,557",
-    "price": "1,969",
-    "img": "40903671_001.jpg"
-  },
-  "41047440": {
-    "mark": "\ubca4\uce20 GLA-\ud074\ub798\uc2a4 H247 GLA220",
-    "year": 2021,
-    "mileage": "109,695",
-    "price": "2,849",
-    "img": "41047440_027.jpg"
-  },
-  "41047461": {
-    "mark": "BMW 5\uc2dc\ub9ac\uc988 (G30) 520i M \uc2a4\ud3ec\uce20",
-    "year": 2022,
-    "mileage": "21,459",
-    "price": "4,370",
-    "img": "41047461_027.jpg"
-  },
-  "41049505": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G90 3.8 AWD \ub7ed\uc154\ub9ac",
-    "year": 2020,
-    "mileage": "136,561",
-    "price": "3,290",
-    "img": "41049505_027.jpg"
-  },
-  "41010155": {
-    "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
-    "year": 2021,
-    "mileage": "68,727",
-    "price": "1,320",
-    "img": "41010155_001.jpg"
-  },
-  "41047149": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc62c \ub274 \ub9d0\ub9ac\ubd80 2.0 \ud130\ubcf4 LTZ \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2017,
-    "mileage": "115,438",
-    "price": "757",
-    "img": "41047149_001.jpg"
-  },
-  "40951501": {
-    "mark": "\ud604\ub300 \ud22c\uc2fc \ud558\uc774\ube0c\ub9ac\ub4dc (NX4) \uc778\uc2a4\ud37c\ub808\uc774\uc158 2WD",
-    "year": 2020,
-    "mileage": "74,018",
-    "price": "2,599",
-    "img": "40951501_001.jpg"
-  },
-  "41015843": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \ub514\uc824 2.2 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2020,
-    "mileage": "57,160",
-    "price": "2,290",
-    "img": "41015843_001.jpg"
-  },
-  "40999119": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E220d \ucfe0\ud398",
-    "year": 2018,
-    "mileage": "90,948",
-    "price": "3,189",
-    "img": "40999119_001.jpg"
-  },
-  "40981397": {
-    "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
-    "year": 2020,
-    "mileage": "72,254",
-    "price": "2,780",
-    "img": "40981397_001.jpg"
-  },
-  "40590902": {
-    "mark": "\ud14c\uc2ac\ub77c \ubaa8\ub378 X 75D",
-    "year": 2018,
-    "mileage": "122,889",
-    "price": "5,830",
-    "img": "40590902_001.jpg"
-  },
-  "40931358": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud22c\uc2fc (NX4) \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \uc778\uc2a4\ud37c\ub808\uc774\uc158",
-    "year": 2024,
-    "mileage": "18,141",
-    "price": "3,199",
-    "img": "40931358_001.jpg"
-  },
-  "40960547": {
-    "mark": "BMW 6\uc2dc\ub9ac\uc988 GT (G32) 620d xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2020,
-    "mileage": "79,180",
-    "price": "4,499",
-    "img": "40960547_001.jpg"
-  },
-  "40608266": {
-    "mark": "\uae30\uc544 \ub274\uce74\ub80c\uc2a4 LPI 2.0 GX \uace0\uae09\ud615",
-    "year": 2011,
-    "mileage": "124,686",
-    "price": "350",
-    "img": "40608266_001.jpg"
-  },
-  "40784502": {
-    "mark": "BMW X5 (G05) xDrive 30d M \uc2a4\ud3ec\uce20",
-    "year": 2023,
-    "mileage": "40,309",
-    "price": "8,300",
-    "img": "40784502_027.jpg"
-  },
-  "40789129": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ubdf0\ud2f0\ud480 \ucf54\ub780\ub3c4 \uac00\uc194\ub9b0 1.5 2WD C5 \ud50c\ub7ec\uc2a4",
-    "year": 2020,
-    "mileage": "47,196",
-    "price": "1,610",
-    "img": "40789129_001.jpg"
-  },
-  "40810810": {
-    "mark": "\ubbf8\ub2c8 \ucfe0\ud37c S \ud074\ub7fd\ub9e8 JCW 2\uc138\ub300",
-    "year": 2023,
-    "mileage": "30,959",
-    "price": "3,990",
-    "img": "40810810_001.jpg"
-  },
-  "40876469": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2022,
-    "mileage": "38,115",
-    "price": "5,990",
-    "img": "40876469_001.jpg"
-  },
-  "40891790": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc54c\ud398\uc628 CL240 \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2015,
-    "mileage": "33,255",
-    "price": "820",
-    "img": "40891790_001.jpg"
-  },
-  "40900623": {
-    "mark": "BMW X3 (G01) xDrive 20i M \uc2a4\ud3ec\uce20",
-    "year": 2023,
-    "mileage": "25,497",
-    "price": "6,200",
-    "img": "40900623_001.jpg"
-  },
-  "40888426": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2022,
-    "mileage": "70,083",
-    "price": "3,890",
-    "img": "40888426_001.jpg"
-  },
-  "40847978": {
-    "mark": "BMW X6 (G06) xDrive40d M \uc2a4\ud3ec\uce20 \uc628\ub77c\uc778 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2023,
-    "mileage": "63,524",
-    "price": "9,500",
-    "img": "40847978_001.jpg"
-  },
-  "38204156": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "89,459",
-    "price": "2,290",
-    "img": "38204156_001.jpg"
-  },
-  "41048250": {
-    "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud2f0\uad6c\uc548 \uc62c\uc2a4\ud398\uc774\uc2a4 2.0 TSI \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2024,
-    "mileage": "20,014",
-    "price": "3,650",
-    "img": "41048250_027.jpg"
-  },
-  "40993125": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \uac00\uc194\ub9b0 2.5T 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2022,
-    "mileage": "23,950",
-    "price": "3,140",
-    "img": "40993125_001.jpg"
-  },
-  "40494968": {
-    "mark": "\uc544\uc6b0\ub514 A6 (C8) 45 TDI \ucf70\ud2b8\ub85c \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2021,
-    "mileage": "55,922",
-    "price": "3,790",
-    "img": "40494968_001.jpg"
-  },
-  "40318792": {
-    "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S400 d 4MATIC",
-    "year": 2022,
-    "mileage": "74,223",
-    "price": "9,490",
-    "img": "40318792_001.jpg"
-  },
-  "40553516": {
-    "mark": "\ud604\ub300 \ub354 \ub274 i40 \uc0b4\ub8ec 2.0 GDi PYL",
-    "year": 2016,
-    "mileage": "112,052",
-    "price": "920",
-    "img": "40553516_001.jpg"
-  },
-  "39901707": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 QM6 2.0 GDe RE 2WD",
-    "year": 2020,
-    "mileage": "49,682",
-    "price": "1,570",
-    "img": "39901707_001.jpg"
-  },
-  "40960541": {
-    "mark": "BMW X4 (G02) xDrive20i xLine",
-    "year": 2023,
-    "mileage": "58,272",
-    "price": "4,299",
-    "img": "40960541_001.jpg"
-  },
-  "40583567": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2020,
-    "mileage": "119,609",
-    "price": "2,190",
-    "img": "40583567_001.jpg"
-  },
-  "41258029": {
-    "mark": "BMW 7\uc2dc\ub9ac\uc988 (G11) 740e i\ud37c\ud3ec\uba3c\uc2a4 M \uc2a4\ud3ec\uce20",
-    "year": 2017,
-    "mileage": "75,657",
-    "price": "4,350",
-    "img": "41258029_001.jpg"
-  },
-  "41242364": {
-    "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud2f0\uad6c\uc548 2\uc138\ub300 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2023,
-    "mileage": "19,705",
-    "price": "4,950",
-    "img": "41242364_001.jpg"
-  },
-  "41245838": {
-    "mark": "\uae30\uc544 K3 \ub178\ube14\ub808\uc2a4",
-    "year": 2013,
-    "mileage": "149,803",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41245838_001.jpg"
-  },
-  "41389339": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2020,
-    "mileage": "73,565",
-    "price": "3,190",
-    "img": "41389339_001.jpg"
-  },
-  "41394375": {
-    "mark": "\ud604\ub300 \uc5d1\uc13c\ud2b8(\uc2e0\ud615) 1.4 VVT \ubaa8\ub358",
-    "year": 2016,
-    "mileage": "86,779",
-    "price": "590",
-    "img": "41394375_001.jpg"
-  },
-  "41387448": {
-    "mark": "\uae30\uc544 \uc62c \ub274 K3 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2021,
-    "mileage": "29,374",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41387448_001.jpg"
-  },
-  "41390748": {
-    "mark": "\ubca4\uce20 GLB-\ud074\ub798\uc2a4 X247 GLB250 4MATIC",
-    "year": 2020,
-    "mileage": "41,486",
-    "price": "3,630",
-    "img": "41390748_001.jpg"
-  },
-  "41276196": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2022,
-    "mileage": "65,119",
-    "price": "3,080",
-    "img": "41276196_001.jpg"
-  },
-  "41390940": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W214 E200 \uc544\ubc29\uac00\ub974\ub4dc",
-    "year": 2024,
-    "mileage": "5,930",
-    "price": "5,850",
-    "img": "41390940_001.jpg"
-  },
-  "41372817": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub354 \ub274 \ud1a0\ub808\uc2a4 \uac00\uc194\ub9b0 1.5 2WD T7",
-    "year": 2024,
-    "mileage": "3,734",
-    "price": "2,700",
-    "img": "41372817_001.jpg"
-  },
-  "41356812": {
-    "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
-    "year": 2022,
-    "mileage": "25,320",
-    "price": "4,590",
-    "img": "41356812_001.jpg"
-  },
-  "41356159": {
-    "mark": "\ubbf8\ub2c8 \ucfe0\ud37c D \ud074\ub7fd\ub9e8 \uae30\ubcf8\ud615 2\uc138\ub300",
-    "year": 2019,
-    "mileage": "102,089",
-    "price": "1,049",
-    "img": "41356159_027.jpg"
-  },
-  "41375743": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 7\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2019,
-    "mileage": "98,720",
-    "price": "3,330",
-    "img": "41375743_027.jpg"
-  },
-  "41348127": {
-    "mark": "\ubca4\uce20 GLA-\ud074\ub798\uc2a4 X156 GLA220",
-    "year": 2019,
-    "mileage": "82,112",
-    "price": "1,750",
-    "img": "41348127_001.jpg"
-  },
-  "41344446": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \ub514\uc824 2.2 4WD \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2021,
-    "mileage": "131,183",
-    "price": "2,350",
-    "img": "41344446_001.jpg"
-  },
-  "41344349": {
-    "mark": "\ud604\ub300 \uc544\ubc18\ub5bc (CN7) 1.6 \uc2a4\ub9c8\ud2b8",
-    "year": 2023,
-    "mileage": "65,541",
-    "price": "1,580",
-    "img": "41344349_001.jpg"
-  },
-  "41309615": {
-    "mark": "\ud14c\uc2ac\ub77c \ubaa8\ub378 Y \uc2a4\ud0e0\ub2e4\ub4dc \ub808\uc778\uc9c0 RWD",
-    "year": 2021,
-    "mileage": "116,880",
-    "price": "2,950",
-    "img": "41309615_001.jpg"
-  },
-  "41302686": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub354 \ub274 \ub809\uc2a4\ud134 \uc2a4\ud3ec\uce20 \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2021,
-    "mileage": "142,118",
-    "price": "1,899",
-    "img": "41302686_001.jpg"
-  },
-  "41313298": {
-    "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2020,
-    "mileage": "78,958",
-    "price": "2,610",
-    "img": "41313298_001.jpg"
-  },
-  "41302697": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI \ub7ed\uc154\ub9ac",
-    "year": 2018,
-    "mileage": "154,559",
-    "price": "1,599",
-    "img": "41302697_001.jpg"
-  },
-  "41307209": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uadf8\ub79c\uc800 IG 3.3 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2020,
-    "mileage": "98,754",
-    "price": "2,150",
-    "img": "41307209_001.jpg"
-  },
-  "41310886": {
-    "mark": "\ubcfc\ubcf4 XC90 2\uc138\ub300 D5 \ubaa8\uba58\ud140",
-    "year": 2019,
-    "mileage": "115,562",
-    "price": "3,310",
-    "img": "41310886_001.jpg"
-  },
-  "41305393": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2018,
-    "mileage": "176,494",
-    "price": "1,090",
-    "img": "41305393_001.jpg"
-  },
-  "41310641": {
-    "mark": "\ud604\ub300 \uc81c\ub124\uc2dc\uc2a4 DH G330 \ubaa8\ub358 AWD",
-    "year": 2014,
-    "mileage": "115,307",
-    "price": "880",
-    "img": "41310641_001.jpg"
-  },
-  "41302287": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2023,
-    "mileage": "35,479",
-    "price": "4,000",
-    "img": "41302287_001.jpg"
-  },
-  "41058070": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \uac00\uc194\ub9b0 2.5T 4WD \uadf8\ub798\ube44\ud2f0",
-    "year": 2024,
-    "mileage": "10,062",
-    "price": "4,350",
-    "img": "41058070_001.jpg"
-  },
-  "41117065": {
-    "mark": "\uae30\uc544 \uc2a4\ud1a0\ub2c9 \ub514\uc824 1.6 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2017,
-    "mileage": "143,662",
-    "price": "850",
-    "img": "41117065_001.jpg"
-  },
-  "41113634": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) G4 \ub809\uc2a4\ud134 \ub514\uc824 2.2 4WD \uc720\ub77c\uc2dc\uc544 \uc5d0\ub514\uc158",
-    "year": 2018,
-    "mileage": "51,417",
-    "price": "2,050",
-    "img": "41113634_001.jpg"
-  },
-  "41112276": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \uce98\ub9ac\uadf8\ub798\ud53c \ube14\ub799\uc5d0\ub514\uc158",
-    "year": 2023,
-    "mileage": "27,937",
-    "price": "4,690",
-    "img": "41112276_001.jpg"
-  },
-  "41121380": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 5\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2020,
-    "mileage": "147,359",
-    "price": "2,599",
-    "img": "41121380_001.jpg"
-  },
-  "41029844": {
-    "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S450L 4MATIC",
-    "year": 2022,
-    "mileage": "37,862",
-    "price": "10,250",
-    "img": "41029844_001.jpg"
-  },
-  "41048894": {
-    "mark": "\ubca4\uce20 AMG GT C192 AMG GT55 4MATIC+",
-    "year": 2025,
-    "mileage": "3,362",
-    "price": "19,900",
-    "img": "41048894_001.jpg"
-  },
-  "41046719": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2022,
-    "mileage": "61,259",
-    "price": "3,240",
-    "img": "41046719_001.jpg"
-  },
-  "41298197": {
-    "mark": "\ubca4\uce20 C-\ud074\ub798\uc2a4 W205 C220 d 4MATIC",
-    "year": 2015,
-    "mileage": "90,429",
-    "price": "1,450",
-    "img": "41298197_027.jpg"
-  },
-  "41294010": {
-    "mark": "\ubca4\uce20 CLA-\ud074\ub798\uc2a4 C118 CLA250 4MATIC",
-    "year": 2024,
-    "mileage": "6,469",
-    "price": "4,760",
-    "img": "41294010_001.jpg"
-  },
-  "41235253": {
-    "mark": "\uae30\uc544 K5 3\uc138\ub300 1.6 \ud130\ubcf4 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2020,
-    "mileage": "133,834",
-    "price": "1,840",
-    "img": "41235253_001.jpg"
-  },
-  "41294878": {
-    "mark": "\ud604\ub300 \uc2fc\ud0c0\ud398 (MX5) HEV 1.6 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2023,
-    "mileage": "30,602",
-    "price": "3,490",
-    "img": "41294878_001.jpg"
-  },
-  "41284612": {
-    "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
-    "year": 2019,
-    "mileage": "117,686",
-    "price": "3,090",
-    "img": "41284612_001.jpg"
-  },
-  "41286493": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud2b8\ub799\uc2a4 \ud06c\ub85c\uc2a4\uc624\ubc84 1.2 RS",
-    "year": 2024,
-    "mileage": "7,499",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41286493_001.jpg"
-  },
-  "41275224": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2021,
-    "mileage": "70,689",
-    "price": "3,040",
-    "img": "41275224_001.jpg"
-  },
-  "41280097": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ub354 \ub274 \ub9d0\ub9ac\ubd80 2.0 \ud130\ubcf4 \ub808\ub4dc\ub77c\uc778",
-    "year": 2022,
-    "mileage": "77,512",
-    "price": "1,850",
-    "img": "41280097_001.jpg"
-  },
-  "41275110": {
-    "mark": "\uae30\uc544 \ubaa8\ub2dd \uc5b4\ubc18 (JA) \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2020,
-    "mileage": "57,212",
-    "price": "1,090",
-    "img": "41275110_001.jpg"
-  },
-  "41276998": {
-    "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \ub178\ube14\ub808\uc2a4",
-    "year": 2022,
-    "mileage": "75,058",
-    "price": "2,580",
-    "img": "41276998_001.jpg"
-  },
-  "41275317": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub274SM3 SE \ud50c\ub7ec\uc2a4",
-    "year": 2014,
-    "mileage": "152,166",
-    "price": "220",
-    "img": "41275317_001.jpg"
-  },
-  "41261644": {
-    "mark": "\ud604\ub300 \uadf8\ub79c\uc800 HG HG300 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2014,
-    "mileage": "133,204",
-    "price": "730",
-    "img": "41261644_001.jpg"
-  },
-  "41257288": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E300d 4MATIC \ucfe0\ud398",
-    "year": 2022,
-    "mileage": "86,885",
-    "price": "4,250",
-    "img": "41257288_001.jpg"
-  },
-  "41262641": {
-    "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W222 S450L 4MATIC",
-    "year": 2018,
-    "mileage": "126,705",
-    "price": "4,390",
-    "img": "41262641_001.jpg"
-  },
-  "41262458": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 7\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2024,
-    "mileage": "45,938",
-    "price": "5,270",
-    "img": "41262458_001.jpg"
-  },
-  "41259744": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI \ub7ed\uc154\ub9ac",
-    "year": 2017,
-    "mileage": "116,878",
-    "price": "1,450",
-    "img": "41259744_001.jpg"
-  },
-  "41263442": {
-    "mark": "\uae30\uc544 \ub354 \ub274 K8 \ud558\uc774\ube0c\ub9ac\ub4dc \ub178\ube14\ub808\uc2a4 \ub77c\uc774\ud2b8",
-    "year": 2025,
-    "mileage": "16,121",
-    "price": "3,770",
-    "img": "41263442_001.jpg"
-  },
-  "41302164": {
-    "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) XM3 1.6 GTe LE",
-    "year": 2021,
-    "mileage": "20,235",
-    "price": "1,520",
-    "img": "41302164_001.jpg"
-  },
-  "41544279": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "127,914",
-    "price": "2,300",
-    "img": "41544279_001.jpg"
-  },
-  "40324931": {
-    "mark": "\uae30\uc544 \ub808\uc774 \ub7ed\uc154\ub9ac",
-    "year": 2016,
-    "mileage": "108,457",
-    "price": "699",
-    "img": "40324931_001.jpg"
-  },
-  "41532202": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2022,
-    "mileage": "129,137",
-    "price": "2,900",
-    "img": "41532202_001.jpg"
-  },
-  "41450906": {
-    "mark": "BMW 5\uc2dc\ub9ac\uc988 (G30) 523d xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2021,
-    "mileage": "99,271",
-    "price": "3,700",
-    "img": "41450906_001.jpg"
-  },
-  "41502733": {
-    "mark": "BMW 7\uc2dc\ub9ac\uc988 (G11) 740Li xDrive M \uc2a4\ud3ec\uce20",
-    "year": 2021,
-    "mileage": "84,585",
-    "price": "6,190",
-    "img": "41502733_001.jpg"
-  },
-  "41416498": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \ub514\uc824 2.2 AWD",
-    "year": 2021,
-    "mileage": "131,444",
-    "price": "3,300",
-    "img": "41416498_001.jpg"
-  },
-  "41471399": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub274\ucf54\ub780\ub3c4 C 2.0 RX 2WD \uace0\uae09\ud615",
-    "year": 2015,
-    "mileage": "107,724",
-    "price": "450",
-    "img": "41471399_001.jpg"
-  },
-  "41465165": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \ubc34 \ud504\ub808\uc2a4\ud2f0\uc9c0 \uc2a4\ud398\uc15c",
-    "year": 2022,
-    "mileage": "91,720",
-    "price": "850",
-    "img": "41465165_001.jpg"
-  },
-  "41450010": {
-    "mark": "\ubca4\uce20 GLS-\ud074\ub798\uc2a4 X167 GLS400d 4MATIC",
-    "year": 2022,
-    "mileage": "102,867",
-    "price": "8,300",
-    "img": "41450010_001.jpg"
-  },
-  "41409411": {
-    "mark": "\ubbf8\ub2c8 \ucfe0\ud37c S \ud074\ub7fd\ub9e8 \ud074\ub798\uc2dd 2\uc138\ub300",
-    "year": 2022,
-    "mileage": "48,106",
-    "price": "2,940",
-    "img": "41409411_001.jpg"
-  },
-  "41411892": {
-    "mark": "\uae30\uc544 K3 \ud2b8\ub80c\ub514",
-    "year": 2013,
-    "mileage": "52,663",
-    "price": "679",
-    "img": "41411892_001.jpg"
-  },
-  "41406325": {
-    "mark": "\ud3ec\ub974\uc250 \ud0c0\uc774\uce78 \ud130\ubcf4 \ud06c\ub85c\uc2a4 \ud22c\ub9ac\uc2a4\ubaa8",
-    "year": 2022,
-    "mileage": "3,920",
-    "price": "14,900",
-    "img": "41406325_027.jpg"
-  },
-  "41405469": {
-    "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 HEV 9\uc778\uc2b9 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2024,
-    "mileage": "15,537",
-    "price": "5,180",
-    "img": "41405469_027.jpg"
-  },
-  "41400885": {
-    "mark": "\ubca4\uce20 G-\ud074\ub798\uc2a4 W463b AMG G63 \uc5d0\ub514\uc158",
-    "year": 2021,
-    "mileage": "23,634",
-    "price": "19,900",
-    "img": "41400885_027.jpg"
-  },
-  "41399609": {
-    "mark": "\ud3ed\uc2a4\ubc14\uac90 \uc544\ud14c\uc628 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "88,836",
-    "price": "1,950",
-    "img": "41399609_001.jpg"
-  },
-  "41396761": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E350 4MATIC AMG Line",
-    "year": 2020,
-    "mileage": "76,142",
-    "price": "3,650",
-    "img": "41396761_001.jpg"
-  },
-  "41399491": {
-    "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc5b4\uba54\uc774\uc9d5 \ub274 \ud06c\ub8e8\uc988 1.4 \ud130\ubcf4 LT \ub514\ub7ed\uc2a4\ud329",
-    "year": 2016,
-    "mileage": "88,591",
-    "price": "490",
-    "img": "41399491_001.jpg"
-  },
-  "41395635": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \uac00\uc194\ub9b0 2.5T 4WD \ub178\ube14\ub808\uc2a4",
-    "year": 2022,
-    "mileage": "171,926",
-    "price": "2,499",
-    "img": "41395635_001.jpg"
-  },
-  "41398937": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \uadf8\ub79c\uc800 IG 2.5 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2020,
-    "mileage": "99,022",
-    "price": "2,150",
-    "img": "41398937_027.jpg"
-  },
-  "41600799": {
-    "mark": "\uae30\uc544 \uc62c \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ub178\ube14\ub808\uc2a4",
-    "year": 2014,
-    "mileage": "161,076",
-    "price": "990",
-    "img": "41600799_001.jpg"
-  },
-  "41604847": {
-    "mark": "\ub9c1\ucee8 \uc5d0\ube44\uc5d0\uc774\ud130 2\uc138\ub300 3.0 \ub9ac\uc800\ube0c AWD",
-    "year": 2023,
-    "mileage": "27,770",
-    "price": "5,080",
-    "img": "41604847_001.jpg"
-  },
-  "41602305": {
-    "mark": "\uae30\uc544 \ub354 \ub274 K5 2\uc138\ub300 2.0 \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "150,781",
-    "price": "1,069",
-    "img": "41602305_001.jpg"
-  },
-  "41604477": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E350 4MATIC AMG Line",
-    "year": 2021,
-    "mileage": "96,718",
-    "price": "3,880",
-    "img": "41604477_001.jpg"
-  },
-  "41614984": {
-    "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub514\ud39c\ub354 (L663) 110 D240 SE",
-    "year": 2020,
-    "mileage": "113,021",
-    "price": "5,190",
-    "img": "41614984_001.jpg"
-  },
-  "41608816": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 2.5T \uac00\uc194\ub9b0 AWD",
-    "year": 2021,
-    "mileage": "72,075",
-    "price": "4,530",
-    "img": "41608816_001.jpg"
-  },
-  "41601460": {
-    "mark": "\uae30\uc544 K8 \ud558\uc774\ube0c\ub9ac\ub4dc \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2022,
-    "mileage": "91,688",
-    "price": "2,890",
-    "img": "41601460_001.jpg"
-  },
-  "41596991": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub809\uc2a4\ud134 \uc2a4\ud3ec\uce20 \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0 \uc2a4\ud398\uc15c",
-    "year": 2020,
-    "mileage": "92,313",
-    "price": "1,620",
-    "img": "41596991_001.jpg"
-  },
-  "41592236": {
-    "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud2f0\uad6c\uc548 \uc62c\uc2a4\ud398\uc774\uc2a4 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2020,
-    "mileage": "72,193",
-    "price": "\uacc4\uc57d\uc911",
-    "img": "41592236_001.jpg"
-  },
-  "41601509": {
-    "mark": "BMW 5\uc2dc\ub9ac\uc988 (G60) 520i M \uc2a4\ud3ec\uce20",
-    "year": 2024,
-    "mileage": "14,057",
-    "price": "6,350",
-    "img": "41601509_001.jpg"
-  },
-  "41589722": {
-    "mark": "\uc9c0\ud504 \ub7ad\uae00\ub7ec (JL) 2.0 \uc624\ubc84\ub79c\ub4dc \ud30c\uc6cc \ud0d1 4\ub3c4\uc5b4",
-    "year": 2021,
-    "mileage": "93,483",
-    "price": "4,090",
-    "img": "41589722_001.jpg"
-  },
-  "41589569": {
-    "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2022,
-    "mileage": "119,446",
-    "price": "2,448",
-    "img": "41589569_001.jpg"
-  },
-  "41578416": {
-    "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ub514 \uc5e3\uc9c0(DN8) 2.0 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2024,
-    "mileage": "51,009",
-    "price": "2,550",
-    "img": "41578416_001.jpg"
-  },
-  "41569231": {
-    "mark": "Hyundai Tucson (NX4) \u0411\u0435\u043d\u0437\u0438\u043d 1.6 Turbo 2WD Inspiration",
-    "year": 2022,
-    "mileage": "41,452",
-    "price": "2,590",
-    "img": "41569231_027.jpg"
-  },
-  "41567351": {
-    "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
-    "year": 2019,
-    "mileage": "171,172",
-    "price": "9,999",
-    "img": "41567351_001.jpg"
-  },
-  "41558780": {
-    "mark": "\ud604\ub300 \uc544\ubc18\ub5bc MD M16 GDI \ud0d1",
-    "year": 2012,
-    "mileage": "166,580",
-    "price": "450",
-    "img": "41558780_001.jpg"
-  },
-  "41548004": {
-    "mark": "\ud604\ub300 i40 \uc0b4\ub8ec 1.7 VGT \ud504\ub9ac\ubbf8\uc5c4",
-    "year": 2012,
-    "mileage": "156,345",
-    "price": "630",
-    "img": "41548004_001.jpg"
-  },
-  "41486095": {
-    "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 \ub9c8\uc774\ubc14\ud750 S680 4MATIC",
-    "year": 2023,
-    "mileage": "45,160",
-    "price": "18,599",
-    "img": "41486095_001.jpg"
-  },
-  "41487769": {
-    "mark": "\ubca4\uce20 GLE-\ud074\ub798\uc2a4 W167 GLE400d 4MATIC \ucfe0\ud398",
-    "year": 2021,
-    "mileage": "92,208",
-    "price": "6,690",
-    "img": "41487769_001.jpg"
-  },
-  "41488921": {
-    "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 3.5 \ud130\ubcf4 AWD",
-    "year": 2022,
-    "mileage": "59,737",
-    "price": "3,750",
-    "img": "41488921_001.jpg"
-  },
-  "41474012": {
-    "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E300 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
-    "year": 2018,
-    "mileage": "100,661",
-    "price": "2,500",
-    "img": "41474012_001.jpg"
-  },
-  "41414110": {
-    "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W222 S63 AMG 4MATIC+ \ud37c\ud3ec\uba3c\uc2a4 \uc5d0\ub514\uc158",
-    "year": 2018,
-    "mileage": "132,313",
-    "price": "5,840",
-    "img": "41414110_001.jpg"
-  },
-  "41412300": {
-    "mark": "\ud3ec\ub4dc \uba38\uc2a4\ud0f1 \ucee8\ubc84\ud130\ube14",
-    "year": 2019,
-    "mileage": "86,537",
-    "price": "2,600",
-    "img": "41412300_001.jpg"
-  },
-  "41404279": {
-    "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 4\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \uc2dc\uadf8\ub2c8\ucc98",
-    "year": 2021,
-    "mileage": "35,977",
-    "price": "4,190",
-    "img": "41404279_001.jpg"
-  },
-  "41406861": {
-    "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
-    "year": 2023,
-    "mileage": "28,657",
-    "price": "4,390",
-    "img": "41406861_001.jpg"
-  },
-  "41404889": {
-    "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ud1a0\ub808\uc2a4 \uac00\uc194\ub9b0 1.5 2WD T7",
-    "year": 2023,
-    "mileage": "24,798",
-    "price": "2,420",
-    "img": "41404889_001.jpg"
-  },
-  "41399218": {
-    "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
-    "year": 2021,
-    "mileage": "106,694",
-    "price": "3,750",
-    "img": "41399218_001.jpg"
-  }
+    "41623743": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \ub514\uc824 2.0 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2021,
+        "mileage": "109,217",
+        "price": "2,100",
+        "img": "41623743_001.jpg"
+    },
+    "41340043": {
+        "mark": "\uae30\uc544 \uc62c \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \ud504\ub808\uc2a4\ud2f0\uc9c0 \ud558\uc774\ub8e8\ud504",
+        "year": 2016,
+        "mileage": "74,140",
+        "price": "1,750",
+        "img": "41340043_027.jpg"
+    },
+    "41075233": {
+        "mark": "\uc544\uc6b0\ub514 \ub274 A4 30 TDI B8",
+        "year": 2015,
+        "mileage": "69,015",
+        "price": "980",
+        "img": "41075233_001.jpg"
+    },
+    "41518016": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E250 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2022,
+        "mileage": "79,542",
+        "price": "3,940",
+        "img": "41518016_001.jpg"
+    },
+    "41495349": {
+        "mark": "\ud3ec\ub974\uc250 \ud0c0\uc774\uce78 \ubca0\uc774\uc2a4",
+        "year": 2024,
+        "mileage": "27,189",
+        "price": "11,990",
+        "img": "41495349_001.jpg"
+    },
+    "41745569": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K9 2\uc138\ub300 3.8 GDI AWD \ubca0\uc2a4\ud2b8 \uc140\ub809\uc158 \u2160",
+        "year": 2022,
+        "mileage": "57,000",
+        "price": "4,290",
+        "img": "41745569_001.jpg"
+    },
+    "41730154": {
+        "mark": "\ud604\ub300 \uc544\ubc18\ub5bc \ud558\uc774\ube0c\ub9ac\ub4dc (CN7) \uc2a4\ub9c8\ud2b8",
+        "year": 2021,
+        "mileage": "91,245",
+        "price": "1,390",
+        "img": "41730154_001.jpg"
+    },
+    "41733809": {
+        "mark": "Genesis G90 (RS4) \u0411\u0435\u043d\u0437\u0438\u043d 3.5 Turbo AWD",
+        "year": 2023,
+        "mileage": "51,231",
+        "price": "6,250",
+        "img": "41733809_001.jpg"
+    },
+    "41730805": {
+        "mark": "\ub9c8\uc138\ub77c\ud2f0 \ub974\ubc18\ub5bc 3.0 AWD \ub7ed\uc154\ub9ac",
+        "year": 2017,
+        "mileage": "115,635",
+        "price": "2,690",
+        "img": "41730805_001.jpg"
+    },
+    "41732768": {
+        "mark": "\ubca4\uce20 CLE-\ud074\ub798\uc2a4 C236 CLE450 4MATIC \ucfe0\ud398",
+        "year": 2024,
+        "mileage": "18,837",
+        "price": "6,950",
+        "img": "41732768_001.jpg"
+    },
+    "41451770": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2021,
+        "mileage": "77,659",
+        "price": "3,780",
+        "img": "41451770_001.jpg"
+    },
+    "41181914": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 4\uc138\ub300 5.0 SC AB",
+        "year": 2021,
+        "mileage": "110,761",
+        "price": "8,250",
+        "img": "41181914_001.jpg"
+    },
+    "41558610": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
+        "year": 2021,
+        "mileage": "74,868",
+        "price": "1,690",
+        "img": "41558610_027.jpg"
+    },
+    "41203833": {
+        "mark": "\ud604\ub300 \ubca0\ub274 1.6 \uc2a4\ub9c8\ud2b8",
+        "year": 2020,
+        "mileage": "38,914",
+        "price": "1,290",
+        "img": "41203833_001.jpg"
+    },
+    "41457837": {
+        "mark": "\uc9c0\ud504 \uae00\ub798\ub514\uc5d0\uc774\ud130 (JT) 3.6 \ub8e8\ube44\ucf58",
+        "year": 2022,
+        "mileage": "3,051",
+        "price": "5,560",
+        "img": "41457837_001.jpg"
+    },
+    "41764547": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2024,
+        "mileage": "11,667",
+        "price": "3,470",
+        "img": "41764547_001.jpg"
+    },
+    "41127494": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \ubca8\ub77c 3.0 P400 \ub2e4\uc774\ub098\ubbf9 HSE",
+        "year": 2025,
+        "mileage": "4,514",
+        "price": "8,889",
+        "img": "41127494_027.jpg"
+    },
+    "39671427": {
+        "mark": "BMW 7\uc2dc\ub9ac\uc988 (G11) 740Ld xDrive M \uc2a4\ud3ec\uce20",
+        "year": 2017,
+        "mileage": "152,951",
+        "price": "3,390",
+        "img": "39671427_001.jpg"
+    },
+    "41037281": {
+        "mark": "BMW X5 (G05) xDrive 45e xLine",
+        "year": 2023,
+        "mileage": "17,630",
+        "price": "8,299",
+        "img": "41037281_001.jpg"
+    },
+    "41316336": {
+        "mark": "\ubca4\uce20 C-\ud074\ub798\uc2a4 W206 C300 4MATIC \uc544\ubc29\uac00\ub974\ub4dc",
+        "year": 2023,
+        "mileage": "28,512",
+        "price": "4,550",
+        "img": "41316336_027.jpg"
+    },
+    "41690788": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.5T \uac00\uc194\ub9b0 AWD",
+        "year": 2021,
+        "mileage": "76,890",
+        "price": "5,040",
+        "img": "41690788_001.jpg"
+    },
+    "41727392": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2023,
+        "mileage": "43,852",
+        "price": "3,765",
+        "img": "41727392_001.jpg"
+    },
+    "41682764": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2023,
+        "mileage": "38,585",
+        "price": "3,615",
+        "img": "41682764_001.jpg"
+    },
+    "41406418": {
+        "mark": "\uae30\uc544 K3 \ud2b8\ub80c\ub514",
+        "year": 2014,
+        "mileage": "71,277",
+        "price": "780",
+        "img": "41406418_001.jpg"
+    },
+    "41631199": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 2\uc138\ub300 \ub178\ube14\ub808\uc2a4",
+        "year": 2018,
+        "mileage": "133,932",
+        "price": "1,390",
+        "img": "41631199_001.jpg"
+    },
+    "41676018": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \ub514\uc824 2.2 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2021,
+        "mileage": "73,383",
+        "price": "2,930",
+        "img": "41676018_001.jpg"
+    },
+    "41094155": {
+        "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ub274 \ub77c\uc774\uc988 2.0 \ubaa8\ub358",
+        "year": 2017,
+        "mileage": "84,685",
+        "price": "1,410",
+        "img": "41094155_001.jpg"
+    },
+    "41439226": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 QM6 2.0 LPe RE \uc2dc\uadf8\ub2c8\ucc98 2WD",
+        "year": 2019,
+        "mileage": "80,953",
+        "price": "1,750",
+        "img": "41439226_001.jpg"
+    },
+    "41451557": {
+        "mark": "\uae30\uc544 \uc62c \ub274 \ubaa8\ub2dd \ub7ed\uc154\ub9ac",
+        "year": 2014,
+        "mileage": "95,575",
+        "price": "570",
+        "img": "41451557_001.jpg"
+    },
+    "41371379": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 3.5 \ud130\ubcf4 AWD",
+        "year": 2021,
+        "mileage": "52,964",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41371379_001.jpg"
+    },
+    "41258804": {
+        "mark": "\ud604\ub300 \uc2fc\ud0c0\ud398 \ub354 \ud504\ub77c\uc784 \ub514\uc824 2.0 2WD \ubc38\ub958 \ud50c\ub7ec\uc2a4",
+        "year": 2017,
+        "mileage": "114,521",
+        "price": "1,399",
+        "img": "41258804_001.jpg"
+    },
+    "41666855": {
+        "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 5\uc778\uc2b9 \ud50c\ub798\ud2f0\ub118",
+        "year": 2023,
+        "mileage": "90,306",
+        "price": "3,450",
+        "img": "41666855_001.jpg"
+    },
+    "41739429": {
+        "mark": "\ubbf8\ub2c8 \ucfe0\ud37c \ucee8\ud2b8\ub9ac\ub9e8 HIGH 2\uc138\ub300",
+        "year": 2020,
+        "mileage": "94,120",
+        "price": "1,750",
+        "img": "41739429_001.jpg"
+    },
+    "39775957": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 2.5 \ud130\ubcf4 AWD",
+        "year": 2024,
+        "mileage": "22,469",
+        "price": "6,090",
+        "img": "39775957_001.jpg"
+    },
+    "41027576": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.0 \ub514\uc824 AWD",
+        "year": 2022,
+        "mileage": "109,533",
+        "price": "4,850",
+        "img": "41027576_001.jpg"
+    },
+    "41756546": {
+        "mark": "\ud604\ub300 \uadf8\ub79c\uc800 HG \ud558\uc774\ube0c\ub9ac\ub4dc \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2016,
+        "mileage": "161,308",
+        "price": "930",
+        "img": "41756546_001.jpg"
+    },
+    "41539384": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 SM6 1.3 TCe \ud544",
+        "year": 2025,
+        "mileage": "308",
+        "price": "2,950",
+        "img": "41539384_001.jpg"
+    },
+    "41596450": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 SM6 1.3 TCe \ud544",
+        "year": 2024,
+        "mileage": "8,298",
+        "price": "2,750",
+        "img": "41596450_001.jpg"
+    },
+    "41530702": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K3 2\uc138\ub300 1.6 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "47,414",
+        "price": "2,430",
+        "img": "41530702_001.jpg"
+    },
+    "41517885": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \uace8\ud504 8\uc138\ub300 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "47,348",
+        "price": "3,350",
+        "img": "41517885_001.jpg"
+    },
+    "41573928": {
+        "mark": "\uc9c0\ud504 \uae00\ub798\ub514\uc5d0\uc774\ud130 (JT) 3.6 \ub8e8\ube44\ucf58",
+        "year": 2022,
+        "mileage": "35,885",
+        "price": "4,430",
+        "img": "41573928_001.jpg"
+    },
+    "41109335": {
+        "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
+        "year": 2021,
+        "mileage": "109,458",
+        "price": "2,820",
+        "img": "41109335_001.jpg"
+    },
+    "39980429": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI AWD \ub7ed\uc154\ub9ac",
+        "year": 2018,
+        "mileage": "91,949",
+        "price": "1,830",
+        "img": "39980429_001.jpg"
+    },
+    "41659997": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 HEV 7\uc778\uc2b9 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2024,
+        "mileage": "52,669",
+        "price": "4,790",
+        "img": "41659997_001.jpg"
+    },
+    "41079598": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.5T \uac00\uc194\ub9b0 AWD",
+        "year": 2021,
+        "mileage": "80,526",
+        "price": "4,699",
+        "img": "41079598_001.jpg"
+    },
+    "41724679": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \uac00\uc194\ub9b0 2.5T 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2024,
+        "mileage": "16,941",
+        "price": "3,530",
+        "img": "41724679_001.jpg"
+    },
+    "41695526": {
+        "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
+        "year": 2021,
+        "mileage": "41,983",
+        "price": "4,250",
+        "img": "41695526_001.jpg"
+    },
+    "41734279": {
+        "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
+        "year": 2021,
+        "mileage": "92,437",
+        "price": "2,690",
+        "img": "41734279_001.jpg"
+    },
+    "41730048": {
+        "mark": "Hyundai Santa Fe (MX5) HEV 1.6 2WD Calligraphy",
+        "year": 2025,
+        "mileage": "2,284",
+        "price": "4,750",
+        "img": "41730048_001.jpg"
+    },
+    "41723675": {
+        "mark": "\ud604\ub300 \uadf8\ub79c\uc800 \ud558\uc774\ube0c\ub9ac\ub4dc (GN7) \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2025,
+        "mileage": "5,215",
+        "price": "4,350",
+        "img": "41723675_001.jpg"
+    },
+    "41713955": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud2b8\ub799\uc2a4 \ud06c\ub85c\uc2a4\uc624\ubc84 1.2 ACTIV",
+        "year": 2025,
+        "mileage": "5,166",
+        "price": "2,450",
+        "img": "41713955_001.jpg"
+    },
+    "41764250": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub274QM3 RE",
+        "year": 2018,
+        "mileage": "89,749",
+        "price": "990",
+        "img": "41764250_001.jpg"
+    },
+    "41620702": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
+        "year": 2022,
+        "mileage": "25,152",
+        "price": "1,380",
+        "img": "41620702_001.jpg"
+    },
+    "41705697": {
+        "mark": "\uae30\uc544 \uc140\ud1a0\uc2a4 \ub514\uc824 1.6 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2020,
+        "mileage": "116,108",
+        "price": "1,640",
+        "img": "41705697_001.jpg"
+    },
+    "41661329": {
+        "mark": "\uae30\uc544 \uc140\ud1a0\uc2a4 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2022,
+        "mileage": "60,304",
+        "price": "2,320",
+        "img": "41661329_001.jpg"
+    },
+    "41658996": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uc544\ubc18\ub5bc AD 1.6 \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2019,
+        "mileage": "8,648",
+        "price": "1,540",
+        "img": "41658996_001.jpg"
+    },
+    "41641999": {
+        "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
+        "year": 2021,
+        "mileage": "68,912",
+        "price": "3,380",
+        "img": "41641999_001.jpg"
+    },
+    "41597987": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ub354 \ub274 \ud2b8\ub808\uc77c\ube14\ub808\uc774\uc800 1.3 \ud130\ubcf4 2WD RS",
+        "year": 2024,
+        "mileage": "19,900",
+        "price": "2,450",
+        "img": "41597987_001.jpg"
+    },
+    "41564075": {
+        "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ud558\uc774\ube0c\ub9ac\ub4dc (DN8) \ubaa8\ub358",
+        "year": 2022,
+        "mileage": "103,077",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41564075_001.jpg"
+    },
+    "41192475": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \ub514\uc824 2.2 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2021,
+        "mileage": "61,969",
+        "price": "2,760",
+        "img": "41192475_001.jpg"
+    },
+    "41655227": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
+        "year": 2022,
+        "mileage": "84,387",
+        "price": "1,260",
+        "img": "41655227_001.jpg"
+    },
+    "41564082": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 9\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2024,
+        "mileage": "46,587",
+        "price": "5,990",
+        "img": "41564082_001.jpg"
+    },
+    "41665618": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ubaa8\ub358",
+        "year": 2022,
+        "mileage": "84,616",
+        "price": "1,260",
+        "img": "41665618_001.jpg"
+    },
+    "41315637": {
+        "mark": "\uae30\uc544 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 3\uc138\ub300 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2021,
+        "mileage": "54,901",
+        "price": "2,670",
+        "img": "41315637_001.jpg"
+    },
+    "41495088": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c \uac00\uc194\ub9b0 7\uc778\uc2b9 \ub9ac\ubb34\uc9c4 \ud504\ub808\uc9c0\ub358\ud2b8",
+        "year": 2018,
+        "mileage": "153,025",
+        "price": "1,750",
+        "img": "41495088_001.jpg"
+    },
+    "41723032": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud06c\ub8e8\uc9885 1.8 LTZ+",
+        "year": 2013,
+        "mileage": "108,877",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41723032_001.jpg"
+    },
+    "40791871": {
+        "mark": "Hyundai Santa Fe (MX5) HEV 1.6 2WD Calligraphy",
+        "year": 2023,
+        "mileage": "47,610",
+        "price": "3,920",
+        "img": "40791871_001.jpg"
+    },
+    "40591164": {
+        "mark": "BMW 6 \u0441\u0435\u0440\u0438\u0438 GT (G32) 640i xDrive M Sport",
+        "year": 2018,
+        "mileage": "92,771",
+        "price": "4,090",
+        "img": "40591164_001.jpg"
+    },
+    "41213238": {
+        "mark": "Porsche Panamera (971) 2.9 AWD Platinum Edition",
+        "year": 2023,
+        "mileage": "21,304",
+        "price": "13,750",
+        "img": "41213238_027.jpg"
+    },
+    "41227821": {
+        "mark": "Kia The K9 3.8 GDI AWD Best Selection I",
+        "year": 2020,
+        "mileage": "71,197",
+        "price": "2,770",
+        "img": "41227821_001.jpg"
+    },
+    "41237751": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV60 \uc2a4\ud0e0\ub2e4\ub4dc",
+        "year": 2023,
+        "mileage": "28,887",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41237751_001.jpg"
+    },
+    "41190000": {
+        "mark": "Kia The K9 3.3 T-GDI AWD Masters II",
+        "year": 2018,
+        "mileage": "72,593",
+        "price": "2,630",
+        "img": "41190000_001.jpg"
+    },
+    "41193723": {
+        "mark": "\ubca4\uce20 GLC-\ud074\ub798\uc2a4 X253 GLC300 4MATIC \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2021,
+        "mileage": "35,483",
+        "price": "4,790",
+        "img": "41193723_001.jpg"
+    },
+    "41192229": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2020,
+        "mileage": "85,225",
+        "price": "1,250",
+        "img": "41192229_001.jpg"
+    },
+    "41153891": {
+        "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 4WD \ub77c\uc6b4\uc9c0 9\uc778\uc2b9 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
+        "year": 2022,
+        "mileage": "11,716",
+        "price": "4,799",
+        "img": "41153891_001.jpg"
+    },
+    "41125994": {
+        "mark": "\ud604\ub300 \uc544\ubc18\ub5bc (CN7) 2.0 N",
+        "year": 2022,
+        "mileage": "9,953",
+        "price": "2,740",
+        "img": "41125994_001.jpg"
+    },
+    "39543451": {
+        "mark": "Renault Korea (Samsung) New SM5 Platinum RE Base Model",
+        "year": 2012,
+        "mileage": "153,735",
+        "price": "309",
+        "img": "39543451_001.jpg"
+    },
+    "41223478": {
+        "mark": "Ford Mondeo 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 2.0 Trend",
+        "year": 2020,
+        "mileage": "40,970",
+        "price": "1,840",
+        "img": "41223478_001.jpg"
+    },
+    "41231406": {
+        "mark": "Kia Sorento R Diesel 2.0 2WD TLX Top-of-the-line Model",
+        "year": 2012,
+        "mileage": "151,906",
+        "price": "500",
+        "img": "41231406_001.jpg"
+    },
+    "41212991": {
+        "mark": "Chevrolet (GM Daewoo) Trax Crossover 1.2 ACTIV",
+        "year": 2025,
+        "mileage": "2,524",
+        "price": "2,580",
+        "img": "41212991_027.jpg"
+    },
+    "41210972": {
+        "mark": "BMW 6 Series GT (G32) 630i xDrive M Sport",
+        "year": 2024,
+        "mileage": "43,687",
+        "price": "6,430",
+        "img": "41210972_027.jpg"
+    },
+    "41194592": {
+        "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 \ud22c\uc5b4\ub7ec 9\uc778\uc2b9 \ubaa8\ub358",
+        "year": 2023,
+        "mileage": "37,543",
+        "price": "3,540",
+        "img": "41194592_001.jpg"
+    },
+    "41195573": {
+        "mark": "\uae30\uc544 \ubaa8\ub2dd \uc5b4\ubc18 (JA) \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2020,
+        "mileage": "41,506",
+        "price": "1,020",
+        "img": "41195573_001.jpg"
+    },
+    "41182146": {
+        "mark": "KG Mobility (SsangYong) Tivoli Armor VX 2WD",
+        "year": 2017,
+        "mileage": "63,222",
+        "price": "1,000",
+        "img": "41182146_001.jpg"
+    },
+    "41187815": {
+        "mark": "Hyundai Casper Turbo Inspiration",
+        "year": 2022,
+        "mileage": "50,327",
+        "price": "1,599",
+        "img": "41187815_001.jpg"
+    },
+    "41145491": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc62c\ub780\ub3c4 LPG LT \uc138\uc774\ud504\ud2f0\ud329",
+        "year": 2016,
+        "mileage": "110,520",
+        "price": "600",
+        "img": "41145491_001.jpg"
+    },
+    "41145274": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc5b4\uba54\uc774\uc9d5 \ub274 \ud06c\ub8e8\uc988 1.8 LT \ub514\ub7ed\uc2a4\ud329",
+        "year": 2016,
+        "mileage": "127,675",
+        "price": "429",
+        "img": "41145274_001.jpg"
+    },
+    "41123273": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G90 5.0 AWD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "157,220",
+        "price": "2,990",
+        "img": "41123273_001.jpg"
+    },
+    "40845410": {
+        "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
+        "year": 2020,
+        "mileage": "70,694",
+        "price": "2,590",
+        "img": "40845410_001.jpg"
+    },
+    "40787406": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2021,
+        "mileage": "25,467",
+        "price": "1,330",
+        "img": "40787406_001.jpg"
+    },
+    "40790316": {
+        "mark": "KG Mobility (SsangYong) Beautiful Korando Gasoline 1.5 2WD R-Plus",
+        "year": 2020,
+        "mileage": "26,916",
+        "price": "1,799",
+        "img": "40790316_027.jpg"
+    },
+    "40792665": {
+        "mark": "Mini Cooper D Base Model 3rd Generation",
+        "year": 2014,
+        "mileage": "229,185",
+        "price": "590",
+        "img": "40792665_001.jpg"
+    },
+    "40903671": {
+        "mark": "Jeep Grand Cherokee 3.0 Diesel Overland Summit WK2",
+        "year": 2018,
+        "mileage": "132,557",
+        "price": "1,930",
+        "img": "40903671_001.jpg"
+    },
+    "41047440": {
+        "mark": "Mercedes-Benz GLA-Class H247 GLA220",
+        "year": 2021,
+        "mileage": "109,695",
+        "price": "2,849",
+        "img": "41047440_027.jpg"
+    },
+    "41047461": {
+        "mark": "BMW 5 Series (G30) 520i M Sport",
+        "year": 2022,
+        "mileage": "21,459",
+        "price": "4,370",
+        "img": "41047461_027.jpg"
+    },
+    "41049505": {
+        "mark": "Genesis G90 3.8 AWD Luxury",
+        "year": 2020,
+        "mileage": "136,561",
+        "price": "3,290",
+        "img": "41049505_027.jpg"
+    },
+    "41010155": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
+        "year": 2021,
+        "mileage": "68,727",
+        "price": "1,320",
+        "img": "41010155_001.jpg"
+    },
+    "41047149": {
+        "mark": "Chevrolet (GM Daewoo) All New Malibu 2.0 Turbo LTZ Premium",
+        "year": 2017,
+        "mileage": "115,438",
+        "price": "697",
+        "img": "41047149_001.jpg"
+    },
+    "40951501": {
+        "mark": "Hyundai Tucson Hybrid (NX4) Inspiration 2WD",
+        "year": 2020,
+        "mileage": "74,018",
+        "price": "2,529",
+        "img": "40951501_001.jpg"
+    },
+    "41015843": {
+        "mark": "Kia Sorento 4th Gen Diesel 2.2 2WD Prestige",
+        "year": 2020,
+        "mileage": "57,160",
+        "price": "2,150",
+        "img": "41015843_001.jpg"
+    },
+    "40999119": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E220d \ucfe0\ud398",
+        "year": 2018,
+        "mileage": "90,948",
+        "price": "3,189",
+        "img": "40999119_001.jpg"
+    },
+    "40981397": {
+        "mark": "Kia Carnival 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Signature",
+        "year": 2020,
+        "mileage": "72,254",
+        "price": "2,780",
+        "img": "40981397_001.jpg"
+    },
+    "40590902": {
+        "mark": "Tesla Model X 75D",
+        "year": 2018,
+        "mileage": "122,889",
+        "price": "5,880",
+        "img": "40590902_001.jpg"
+    },
+    "40931358": {
+        "mark": "Hyundai The New Tucson (NX4) Gasoline 1.6 Turbo 2WD Inspiration",
+        "year": 2024,
+        "mileage": "18,141",
+        "price": "3,199",
+        "img": "40931358_001.jpg"
+    },
+    "40960547": {
+        "mark": "BMW 6 Series GT (G32) 620d xDrive M Sport",
+        "year": 2020,
+        "mileage": "79,180",
+        "price": "4,499",
+        "img": "40960547_001.jpg"
+    },
+    "40608266": {
+        "mark": "Kia New Carens LPI 2.0 GX Premium",
+        "year": 2011,
+        "mileage": "124,686",
+        "price": "350",
+        "img": "40608266_001.jpg"
+    },
+    "40784502": {
+        "mark": "BMW X5 (G05) xDrive 30d M Sport",
+        "year": 2023,
+        "mileage": "40,309",
+        "price": "8,300",
+        "img": "40784502_027.jpg"
+    },
+    "40789129": {
+        "mark": "KG Mobility (SsangYong) Beautiful Korando Gasoline 1.5 2WD C5 Plus",
+        "year": 2020,
+        "mileage": "47,196",
+        "price": "1,610",
+        "img": "40789129_001.jpg"
+    },
+    "40810810": {
+        "mark": "Mini Cooper S Clubman JCW 2nd Generation",
+        "year": 2023,
+        "mileage": "30,959",
+        "price": "3,990",
+        "img": "40810810_001.jpg"
+    },
+    "40876469": {
+        "mark": "Kia Mohave The Master Diesel 3.0 4WD 6-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Masters",
+        "year": 2022,
+        "mileage": "38,115",
+        "price": "5,990",
+        "img": "40876469_001.jpg"
+    },
+    "40891790": {
+        "mark": "Chevrolet (GM Daewoo) Alpheon CL240 Premium",
+        "year": 2015,
+        "mileage": "33,255",
+        "price": "820",
+        "img": "40891790_001.jpg"
+    },
+    "40900623": {
+        "mark": "BMW X3 (G01) xDrive 20i M Sport",
+        "year": 2023,
+        "mileage": "25,497",
+        "price": "5,990",
+        "img": "40900623_001.jpg"
+    },
+    "40888426": {
+        "mark": "Kia Mohave The Master Diesel 3.0 4WD 6-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Masters",
+        "year": 2022,
+        "mileage": "70,083",
+        "price": "3,890",
+        "img": "40888426_001.jpg"
+    },
+    "40847978": {
+        "mark": "BMW X6 (G06) xDrive40d M Sport Online Exclusive",
+        "year": 2023,
+        "mileage": "63,524",
+        "price": "9,500",
+        "img": "40847978_001.jpg"
+    },
+    "38204156": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "89,459",
+        "price": "2,290",
+        "img": "38204156_001.jpg"
+    },
+    "41048250": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud2f0\uad6c\uc548 \uc62c\uc2a4\ud398\uc774\uc2a4 2.0 TSI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2024,
+        "mileage": "20,014",
+        "price": "3,650",
+        "img": "41048250_027.jpg"
+    },
+    "40993125": {
+        "mark": "Hyundai The New Santa Fe Gasoline 2.5T 2WD Calligraphy",
+        "year": 2022,
+        "mileage": "23,950",
+        "price": "3,140",
+        "img": "40993125_001.jpg"
+    },
+    "40494968": {
+        "mark": "Audi A6 (C8) 45 TDI Quattro Premium",
+        "year": 2021,
+        "mileage": "55,922",
+        "price": "3,590",
+        "img": "40494968_001.jpg"
+    },
+    "40318792": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S400 d 4MATIC",
+        "year": 2022,
+        "mileage": "74,223",
+        "price": "9,490",
+        "img": "40318792_001.jpg"
+    },
+    "40553516": {
+        "mark": "Hyundai: \u041d\u043e\u0432\u044b\u0439 i40 Saloon 2.0 GDi PYL",
+        "year": 2016,
+        "mileage": "112,052",
+        "price": "899",
+        "img": "40553516_001.jpg"
+    },
+    "39901707": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub354 \ub274 QM6 2.0 GDe RE 2WD",
+        "year": 2020,
+        "mileage": "49,682",
+        "price": "1,570",
+        "img": "39901707_001.jpg"
+    },
+    "40960541": {
+        "mark": "BMW X4 (G02) xDrive20i xLine",
+        "year": 2023,
+        "mileage": "58,272",
+        "price": "4,299",
+        "img": "40960541_001.jpg"
+    },
+    "40583567": {
+        "mark": "Hyundai The New Santa Fe Diesel 2.2 4WD Prestige",
+        "year": 2020,
+        "mileage": "119,609",
+        "price": "2,240",
+        "img": "40583567_001.jpg"
+    },
+    "41258029": {
+        "mark": "BMW 7 Series (G11) 740e iPerformance M Sport",
+        "year": 2017,
+        "mileage": "75,657",
+        "price": "4,350",
+        "img": "41258029_001.jpg"
+    },
+    "41242364": {
+        "mark": "Volkswagen Tiguan 2-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f 2.0 TDI Prestige",
+        "year": 2023,
+        "mileage": "19,705",
+        "price": "4,950",
+        "img": "41242364_001.jpg"
+    },
+    "41245838": {
+        "mark": "Kia K3 Noblesse",
+        "year": 2013,
+        "mileage": "149,803",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41245838_001.jpg"
+    },
+    "41389339": {
+        "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
+        "year": 2020,
+        "mileage": "73,565",
+        "price": "3,190",
+        "img": "41389339_001.jpg"
+    },
+    "41394375": {
+        "mark": "\ud604\ub300 \uc5d1\uc13c\ud2b8(\uc2e0\ud615) 1.4 VVT \ubaa8\ub358",
+        "year": 2016,
+        "mileage": "86,779",
+        "price": "590",
+        "img": "41394375_001.jpg"
+    },
+    "41387448": {
+        "mark": "\uae30\uc544 \uc62c \ub274 K3 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2021,
+        "mileage": "29,374",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41387448_001.jpg"
+    },
+    "41390748": {
+        "mark": "\ubca4\uce20 GLB-\ud074\ub798\uc2a4 X247 GLB250 4MATIC",
+        "year": 2020,
+        "mileage": "41,486",
+        "price": "3,630",
+        "img": "41390748_001.jpg"
+    },
+    "41276196": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2022,
+        "mileage": "65,119",
+        "price": "3,080",
+        "img": "41276196_001.jpg"
+    },
+    "41390940": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W214 E200 \uc544\ubc29\uac00\ub974\ub4dc",
+        "year": 2024,
+        "mileage": "5,930",
+        "price": "5,850",
+        "img": "41390940_001.jpg"
+    },
+    "41372817": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub354 \ub274 \ud1a0\ub808\uc2a4 \uac00\uc194\ub9b0 1.5 2WD T7",
+        "year": 2024,
+        "mileage": "3,734",
+        "price": "2,700",
+        "img": "41372817_001.jpg"
+    },
+    "41356812": {
+        "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
+        "year": 2022,
+        "mileage": "25,320",
+        "price": "4,590",
+        "img": "41356812_001.jpg"
+    },
+    "41356159": {
+        "mark": "\ubbf8\ub2c8 \ucfe0\ud37c D \ud074\ub7fd\ub9e8 \uae30\ubcf8\ud615 2\uc138\ub300",
+        "year": 2019,
+        "mileage": "102,089",
+        "price": "1,049",
+        "img": "41356159_027.jpg"
+    },
+    "41375743": {
+        "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 7\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
+        "year": 2019,
+        "mileage": "98,720",
+        "price": "3,330",
+        "img": "41375743_027.jpg"
+    },
+    "41348127": {
+        "mark": "\ubca4\uce20 GLA-\ud074\ub798\uc2a4 X156 GLA220",
+        "year": 2019,
+        "mileage": "82,112",
+        "price": "1,750",
+        "img": "41348127_001.jpg"
+    },
+    "41344446": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \ub514\uc824 2.2 4WD \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2021,
+        "mileage": "131,183",
+        "price": "2,350",
+        "img": "41344446_001.jpg"
+    },
+    "41344349": {
+        "mark": "\ud604\ub300 \uc544\ubc18\ub5bc (CN7) 1.6 \uc2a4\ub9c8\ud2b8",
+        "year": 2023,
+        "mileage": "65,541",
+        "price": "1,580",
+        "img": "41344349_001.jpg"
+    },
+    "41309615": {
+        "mark": "\ud14c\uc2ac\ub77c \ubaa8\ub378 Y \uc2a4\ud0e0\ub2e4\ub4dc \ub808\uc778\uc9c0 RWD",
+        "year": 2021,
+        "mileage": "116,880",
+        "price": "2,950",
+        "img": "41309615_001.jpg"
+    },
+    "41302686": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub354 \ub274 \ub809\uc2a4\ud134 \uc2a4\ud3ec\uce20 \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2021,
+        "mileage": "142,118",
+        "price": "1,899",
+        "img": "41302686_001.jpg"
+    },
+    "41313298": {
+        "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2020,
+        "mileage": "78,958",
+        "price": "2,610",
+        "img": "41313298_001.jpg"
+    },
+    "41302697": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI \ub7ed\uc154\ub9ac",
+        "year": 2018,
+        "mileage": "154,559",
+        "price": "1,599",
+        "img": "41302697_001.jpg"
+    },
+    "41307209": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uadf8\ub79c\uc800 IG 3.3 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2020,
+        "mileage": "98,754",
+        "price": "2,150",
+        "img": "41307209_001.jpg"
+    },
+    "41310886": {
+        "mark": "\ubcfc\ubcf4 XC90 2\uc138\ub300 D5 \ubaa8\uba58\ud140",
+        "year": 2019,
+        "mileage": "115,562",
+        "price": "3,310",
+        "img": "41310886_001.jpg"
+    },
+    "41305393": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2018,
+        "mileage": "176,494",
+        "price": "1,090",
+        "img": "41305393_001.jpg"
+    },
+    "41310641": {
+        "mark": "\ud604\ub300 \uc81c\ub124\uc2dc\uc2a4 DH G330 \ubaa8\ub358 AWD",
+        "year": 2014,
+        "mileage": "115,307",
+        "price": "880",
+        "img": "41310641_001.jpg"
+    },
+    "41302287": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2023,
+        "mileage": "35,479",
+        "price": "4,000",
+        "img": "41302287_001.jpg"
+    },
+    "41058070": {
+        "mark": "Kia The New Sorento 4th Gen Gasoline 2.5T 4WD Gravity",
+        "year": 2024,
+        "mileage": "10,062",
+        "price": "4,350",
+        "img": "41058070_001.jpg"
+    },
+    "41117065": {
+        "mark": "\uae30\uc544 \uc2a4\ud1a0\ub2c9 \ub514\uc824 1.6 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2017,
+        "mileage": "143,662",
+        "price": "850",
+        "img": "41117065_001.jpg"
+    },
+    "41113634": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) G4 \ub809\uc2a4\ud134 \ub514\uc824 2.2 4WD \uc720\ub77c\uc2dc\uc544 \uc5d0\ub514\uc158",
+        "year": 2018,
+        "mileage": "51,417",
+        "price": "2,050",
+        "img": "41113634_001.jpg"
+    },
+    "41112276": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \uce98\ub9ac\uadf8\ub798\ud53c \ube14\ub799\uc5d0\ub514\uc158",
+        "year": 2023,
+        "mileage": "27,937",
+        "price": "4,690",
+        "img": "41112276_001.jpg"
+    },
+    "41121380": {
+        "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 5\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
+        "year": 2020,
+        "mileage": "147,359",
+        "price": "2,599",
+        "img": "41121380_001.jpg"
+    },
+    "41029844": {
+        "mark": "Mercedes-Benz S-Class W223 S450L 4MATIC",
+        "year": 2022,
+        "mileage": "37,862",
+        "price": "10,190",
+        "img": "41029844_001.jpg"
+    },
+    "41048894": {
+        "mark": "\ubca4\uce20 AMG GT C192 AMG GT55 4MATIC+",
+        "year": 2025,
+        "mileage": "3,362",
+        "price": "19,900",
+        "img": "41048894_001.jpg"
+    },
+    "41046719": {
+        "mark": "Hyundai The New Palisade Diesel 2.2 2WD Exclusive",
+        "year": 2022,
+        "mileage": "61,259",
+        "price": "3,240",
+        "img": "41046719_001.jpg"
+    },
+    "41298197": {
+        "mark": "\ubca4\uce20 C-\ud074\ub798\uc2a4 W205 C220 d 4MATIC",
+        "year": 2015,
+        "mileage": "90,429",
+        "price": "1,450",
+        "img": "41298197_027.jpg"
+    },
+    "41294010": {
+        "mark": "\ubca4\uce20 CLA-\ud074\ub798\uc2a4 C118 CLA250 4MATIC",
+        "year": 2024,
+        "mileage": "6,469",
+        "price": "4,760",
+        "img": "41294010_001.jpg"
+    },
+    "41235253": {
+        "mark": "Kia K5 3rd Generation 1.6 Turbo Signature",
+        "year": 2020,
+        "mileage": "133,834",
+        "price": "1,840",
+        "img": "41235253_001.jpg"
+    },
+    "41294878": {
+        "mark": "\ud604\ub300 \uc2fc\ud0c0\ud398 (MX5) HEV 1.6 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2023,
+        "mileage": "30,602",
+        "price": "3,490",
+        "img": "41294878_001.jpg"
+    },
+    "41284612": {
+        "mark": "\uae30\uc544 \ubaa8\ud558\ube44 \ub354 \ub9c8\uc2a4\ud130 \ub514\uc824 3.0 4WD 6\uc778\uc2b9 \ub9c8\uc2a4\ud130\uc988",
+        "year": 2019,
+        "mileage": "117,686",
+        "price": "3,090",
+        "img": "41284612_001.jpg"
+    },
+    "41286493": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ud2b8\ub799\uc2a4 \ud06c\ub85c\uc2a4\uc624\ubc84 1.2 RS",
+        "year": 2024,
+        "mileage": "7,499",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41286493_001.jpg"
+    },
+    "41275224": {
+        "mark": "Kia Sorento 4-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f HEV 1.6 2WD Prestige",
+        "year": 2021,
+        "mileage": "70,689",
+        "price": "2,990",
+        "img": "41275224_001.jpg"
+    },
+    "41280097": {
+        "mark": "Chevrolet (GM Daewoo) \u041d\u043e\u0432\u044b\u0439 Malibu 2.0 Turbo Redline",
+        "year": 2022,
+        "mileage": "77,512",
+        "price": "1,850",
+        "img": "41280097_001.jpg"
+    },
+    "41275110": {
+        "mark": "Kia Morning Urban (JA) Signature",
+        "year": 2020,
+        "mileage": "57,212",
+        "price": "1,088",
+        "img": "41275110_001.jpg"
+    },
+    "41276998": {
+        "mark": "Kia Sportage 5-\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f, \u0431\u0435\u043d\u0437\u0438\u043d\u043e\u0432\u044b\u0439 1.6 Turbo 2WD Noblesse",
+        "year": 2022,
+        "mileage": "75,058",
+        "price": "2,580",
+        "img": "41276998_001.jpg"
+    },
+    "41275317": {
+        "mark": "Renault Korea (Samsung) New SM3 SE Plus",
+        "year": 2014,
+        "mileage": "152,166",
+        "price": "200",
+        "img": "41275317_001.jpg"
+    },
+    "41261644": {
+        "mark": "Hyundai Grandeur HG HG300 Exclusive",
+        "year": 2014,
+        "mileage": "133,204",
+        "price": "690",
+        "img": "41261644_001.jpg"
+    },
+    "41257288": {
+        "mark": "Mercedes-Benz E-Class W213 E300d 4MATIC Coupe",
+        "year": 2022,
+        "mileage": "86,885",
+        "price": "4,250",
+        "img": "41257288_001.jpg"
+    },
+    "41262641": {
+        "mark": "Mercedes-Benz S-Class W222 S450L 4MATIC",
+        "year": 2018,
+        "mileage": "126,705",
+        "price": "4,390",
+        "img": "41262641_001.jpg"
+    },
+    "41262458": {
+        "mark": "Kia The New Carnival 4th Gen Gasoline 7-seater High Limousine Signature",
+        "year": 2024,
+        "mileage": "45,938",
+        "price": "5,250",
+        "img": "41262458_001.jpg"
+    },
+    "41259744": {
+        "mark": "Genesis G80 3.3 GDI Luxury",
+        "year": 2017,
+        "mileage": "116,878",
+        "price": "1,400",
+        "img": "41259744_001.jpg"
+    },
+    "41263442": {
+        "mark": "Kia The New K8 Hybrid Noblesse Light",
+        "year": 2025,
+        "mileage": "16,121",
+        "price": "3,770",
+        "img": "41263442_001.jpg"
+    },
+    "41302164": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) XM3 1.6 GTe LE",
+        "year": 2021,
+        "mileage": "20,235",
+        "price": "1,520",
+        "img": "41302164_001.jpg"
+    },
+    "41544279": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "127,914",
+        "price": "2,300",
+        "img": "41544279_001.jpg"
+    },
+    "40324931": {
+        "mark": "\uae30\uc544 \ub808\uc774 \ub7ed\uc154\ub9ac",
+        "year": 2016,
+        "mileage": "108,457",
+        "price": "699",
+        "img": "40324931_001.jpg"
+    },
+    "41532202": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "129,137",
+        "price": "2,900",
+        "img": "41532202_001.jpg"
+    },
+    "41450906": {
+        "mark": "BMW 5\uc2dc\ub9ac\uc988 (G30) 523d xDrive M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "99,271",
+        "price": "3,700",
+        "img": "41450906_001.jpg"
+    },
+    "41502733": {
+        "mark": "BMW 7\uc2dc\ub9ac\uc988 (G11) 740Li xDrive M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "84,585",
+        "price": "6,190",
+        "img": "41502733_001.jpg"
+    },
+    "41416498": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \ub514\uc824 2.2 AWD",
+        "year": 2021,
+        "mileage": "131,444",
+        "price": "3,300",
+        "img": "41416498_001.jpg"
+    },
+    "41471399": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub274\ucf54\ub780\ub3c4 C 2.0 RX 2WD \uace0\uae09\ud615",
+        "year": 2015,
+        "mileage": "107,724",
+        "price": "450",
+        "img": "41471399_001.jpg"
+    },
+    "41465165": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \ub808\uc774 \ubc34 \ud504\ub808\uc2a4\ud2f0\uc9c0 \uc2a4\ud398\uc15c",
+        "year": 2022,
+        "mileage": "91,720",
+        "price": "850",
+        "img": "41465165_001.jpg"
+    },
+    "41450010": {
+        "mark": "\ubca4\uce20 GLS-\ud074\ub798\uc2a4 X167 GLS400d 4MATIC",
+        "year": 2022,
+        "mileage": "102,867",
+        "price": "8,300",
+        "img": "41450010_001.jpg"
+    },
+    "41409411": {
+        "mark": "\ubbf8\ub2c8 \ucfe0\ud37c S \ud074\ub7fd\ub9e8 \ud074\ub798\uc2dd 2\uc138\ub300",
+        "year": 2022,
+        "mileage": "48,106",
+        "price": "2,940",
+        "img": "41409411_001.jpg"
+    },
+    "41411892": {
+        "mark": "\uae30\uc544 K3 \ud2b8\ub80c\ub514",
+        "year": 2013,
+        "mileage": "52,663",
+        "price": "679",
+        "img": "41411892_001.jpg"
+    },
+    "41406325": {
+        "mark": "\ud3ec\ub974\uc250 \ud0c0\uc774\uce78 \ud130\ubcf4 \ud06c\ub85c\uc2a4 \ud22c\ub9ac\uc2a4\ubaa8",
+        "year": 2022,
+        "mileage": "3,920",
+        "price": "14,900",
+        "img": "41406325_027.jpg"
+    },
+    "41405469": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uce74\ub2c8\ubc1c 4\uc138\ub300 HEV 9\uc778\uc2b9 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2024,
+        "mileage": "15,537",
+        "price": "5,180",
+        "img": "41405469_027.jpg"
+    },
+    "41400885": {
+        "mark": "\ubca4\uce20 G-\ud074\ub798\uc2a4 W463b AMG G63 \uc5d0\ub514\uc158",
+        "year": 2021,
+        "mileage": "23,634",
+        "price": "19,900",
+        "img": "41400885_027.jpg"
+    },
+    "41399609": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \uc544\ud14c\uc628 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "88,836",
+        "price": "1,950",
+        "img": "41399609_001.jpg"
+    },
+    "41396761": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E350 4MATIC AMG Line",
+        "year": 2020,
+        "mileage": "76,142",
+        "price": "3,650",
+        "img": "41396761_001.jpg"
+    },
+    "41399491": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc5b4\uba54\uc774\uc9d5 \ub274 \ud06c\ub8e8\uc988 1.4 \ud130\ubcf4 LT \ub514\ub7ed\uc2a4\ud329",
+        "year": 2016,
+        "mileage": "88,591",
+        "price": "490",
+        "img": "41399491_001.jpg"
+    },
+    "41395635": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 \uac00\uc194\ub9b0 2.5T 4WD \ub178\ube14\ub808\uc2a4",
+        "year": 2022,
+        "mileage": "171,926",
+        "price": "2,499",
+        "img": "41395635_001.jpg"
+    },
+    "41398937": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uadf8\ub79c\uc800 IG 2.5 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2020,
+        "mileage": "99,022",
+        "price": "2,150",
+        "img": "41398937_027.jpg"
+    },
+    "41600799": {
+        "mark": "\uae30\uc544 \uc62c \ub274 \uce74\ub2c8\ubc1c 9\uc778\uc2b9 \ub178\ube14\ub808\uc2a4",
+        "year": 2014,
+        "mileage": "161,076",
+        "price": "990",
+        "img": "41600799_001.jpg"
+    },
+    "41604847": {
+        "mark": "\ub9c1\ucee8 \uc5d0\ube44\uc5d0\uc774\ud130 2\uc138\ub300 3.0 \ub9ac\uc800\ube0c AWD",
+        "year": 2023,
+        "mileage": "27,770",
+        "price": "5,080",
+        "img": "41604847_001.jpg"
+    },
+    "41602305": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K5 2\uc138\ub300 2.0 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "150,781",
+        "price": "1,069",
+        "img": "41602305_001.jpg"
+    },
+    "41604477": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E350 4MATIC AMG Line",
+        "year": 2021,
+        "mileage": "96,718",
+        "price": "3,880",
+        "img": "41604477_001.jpg"
+    },
+    "41614984": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub514\ud39c\ub354 (L663) 110 D240 SE",
+        "year": 2020,
+        "mileage": "113,021",
+        "price": "5,190",
+        "img": "41614984_001.jpg"
+    },
+    "41608816": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 2.5T \uac00\uc194\ub9b0 AWD",
+        "year": 2021,
+        "mileage": "72,075",
+        "price": "4,530",
+        "img": "41608816_001.jpg"
+    },
+    "41601460": {
+        "mark": "\uae30\uc544 K8 \ud558\uc774\ube0c\ub9ac\ub4dc \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2022,
+        "mileage": "91,688",
+        "price": "2,890",
+        "img": "41601460_001.jpg"
+    },
+    "41596991": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ub809\uc2a4\ud134 \uc2a4\ud3ec\uce20 \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0 \uc2a4\ud398\uc15c",
+        "year": 2020,
+        "mileage": "92,313",
+        "price": "1,620",
+        "img": "41596991_001.jpg"
+    },
+    "41592236": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud2f0\uad6c\uc548 \uc62c\uc2a4\ud398\uc774\uc2a4 2.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2020,
+        "mileage": "72,193",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41592236_001.jpg"
+    },
+    "41601509": {
+        "mark": "BMW 5\uc2dc\ub9ac\uc988 (G60) 520i M \uc2a4\ud3ec\uce20",
+        "year": 2024,
+        "mileage": "14,057",
+        "price": "6,350",
+        "img": "41601509_001.jpg"
+    },
+    "41589722": {
+        "mark": "\uc9c0\ud504 \ub7ad\uae00\ub7ec (JL) 2.0 \uc624\ubc84\ub79c\ub4dc \ud30c\uc6cc \ud0d1 4\ub3c4\uc5b4",
+        "year": 2021,
+        "mileage": "93,483",
+        "price": "4,090",
+        "img": "41589722_001.jpg"
+    },
+    "41589569": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "119,446",
+        "price": "2,448",
+        "img": "41589569_001.jpg"
+    },
+    "41578416": {
+        "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ub514 \uc5e3\uc9c0(DN8) 2.0 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2024,
+        "mileage": "51,009",
+        "price": "2,550",
+        "img": "41578416_001.jpg"
+    },
+    "41569231": {
+        "mark": "Hyundai Tucson (NX4) \u0411\u0435\u043d\u0437\u0438\u043d 1.6 Turbo 2WD Inspiration",
+        "year": 2022,
+        "mileage": "41,452",
+        "price": "2,590",
+        "img": "41569231_027.jpg"
+    },
+    "41567351": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 4WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2019,
+        "mileage": "171,172",
+        "price": "9,999",
+        "img": "41567351_001.jpg"
+    },
+    "41558780": {
+        "mark": "\ud604\ub300 \uc544\ubc18\ub5bc MD M16 GDI \ud0d1",
+        "year": 2012,
+        "mileage": "166,580",
+        "price": "450",
+        "img": "41558780_001.jpg"
+    },
+    "41548004": {
+        "mark": "\ud604\ub300 i40 \uc0b4\ub8ec 1.7 VGT \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2012,
+        "mileage": "156,345",
+        "price": "630",
+        "img": "41548004_001.jpg"
+    },
+    "41486095": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 \ub9c8\uc774\ubc14\ud750 S680 4MATIC",
+        "year": 2023,
+        "mileage": "45,160",
+        "price": "18,599",
+        "img": "41486095_001.jpg"
+    },
+    "41487769": {
+        "mark": "\ubca4\uce20 GLE-\ud074\ub798\uc2a4 W167 GLE400d 4MATIC \ucfe0\ud398",
+        "year": 2021,
+        "mileage": "92,208",
+        "price": "6,690",
+        "img": "41487769_001.jpg"
+    },
+    "41488921": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 3.5 \ud130\ubcf4 AWD",
+        "year": 2022,
+        "mileage": "59,737",
+        "price": "3,750",
+        "img": "41488921_001.jpg"
+    },
+    "41474012": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E300 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2018,
+        "mileage": "100,661",
+        "price": "2,500",
+        "img": "41474012_001.jpg"
+    },
+    "41414110": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W222 S63 AMG 4MATIC+ \ud37c\ud3ec\uba3c\uc2a4 \uc5d0\ub514\uc158",
+        "year": 2018,
+        "mileage": "132,313",
+        "price": "5,840",
+        "img": "41414110_001.jpg"
+    },
+    "41412300": {
+        "mark": "\ud3ec\ub4dc \uba38\uc2a4\ud0f1 \ucee8\ubc84\ud130\ube14",
+        "year": 2019,
+        "mileage": "86,537",
+        "price": "2,600",
+        "img": "41412300_001.jpg"
+    },
+    "41404279": {
+        "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 4\uc778\uc2b9 \ud558\uc774\ub9ac\ubb34\uc9c4 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2021,
+        "mileage": "35,977",
+        "price": "4,190",
+        "img": "41404279_001.jpg"
+    },
+    "41406861": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2023,
+        "mileage": "28,657",
+        "price": "4,390",
+        "img": "41406861_001.jpg"
+    },
+    "41404889": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ud1a0\ub808\uc2a4 \uac00\uc194\ub9b0 1.5 2WD T7",
+        "year": 2023,
+        "mileage": "24,798",
+        "price": "2,420",
+        "img": "41404889_001.jpg"
+    },
+    "41399218": {
+        "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
+        "year": 2021,
+        "mileage": "106,694",
+        "price": "3,750",
+        "img": "41399218_001.jpg"
+    },
+    "41805133": {
+        "mark": "BMW X6 (F16) xDrive 30d",
+        "year": 2016,
+        "mileage": "127,495",
+        "price": "2,550",
+        "img": "41805133_001.jpg"
+    },
+    "41825875": {
+        "mark": "\uc7ac\uaddc\uc5b4 XE 20d R\uc2a4\ud3ec\uce20",
+        "year": 2016,
+        "mileage": "89,620",
+        "price": "750",
+        "img": "41825875_001.jpg"
+    },
+    "39334496": {
+        "mark": "Hyundai Grandeur Hybrid (GN7) Premium",
+        "year": 2025,
+        "mileage": "3,000",
+        "price": "\ub80c\ud2b8",
+        "img": "39334496_001.jpg"
+    },
+    "41542807": {
+        "mark": "\uae30\uc544 K3 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2013,
+        "mileage": "87,288",
+        "price": "360",
+        "img": "41542807_001.jpg"
+    },
+    "41342311": {
+        "mark": "\uae30\uc544 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 500h \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2015,
+        "mileage": "183,516",
+        "price": "479",
+        "img": "41342311_001.jpg"
+    },
+    "41641276": {
+        "mark": "\uae30\uc544 \ub354 K9 3.8 GDI AWD \uadf8\ub79c\ub4dc \ud50c\ub798\ud2f0\ub118",
+        "year": 2019,
+        "mileage": "79,119",
+        "price": "3,050",
+        "img": "41641276_001.jpg"
+    },
+    "36907722": {
+        "mark": "\ud604\ub300 \uc3e0\ub77c\ud2f0 \ub9ac\ubb34\uc9c4",
+        "year": 2019,
+        "mileage": "112,397",
+        "price": "4,150",
+        "img": "36907722_001.jpg"
+    },
+    "41483764": {
+        "mark": "\ud604\ub300 \ub354 \ub274 i40 \uc0b4\ub8ec 2.0 GDi \ub514 \uc2a4\ud399",
+        "year": 2016,
+        "mileage": "111,107",
+        "price": "870",
+        "img": "41483764_001.jpg"
+    },
+    "41700908": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 4WD \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2022,
+        "mileage": "112,819",
+        "price": "3,080",
+        "img": "41700908_001.jpg"
+    },
+    "41596941": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \ub514\uc824 2.2 2WD \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2022,
+        "mileage": "49,242",
+        "price": "2,690",
+        "img": "41596941_001.jpg"
+    },
+    "40989697": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ucea1\ucc98 1.3 TCe \uc778\ud150\uc2a4",
+        "year": 2020,
+        "mileage": "99,972",
+        "price": "1,190",
+        "img": "40989697_001.jpg"
+    },
+    "41783129": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) \ub274SM5 \ud50c\ub798\ud2f0\ub118 LPLI \ud0dd\uc2dc\ub80c\ud130\uce74 \uace0\uae09\ud615",
+        "year": 2014,
+        "mileage": "105,157",
+        "price": "350",
+        "img": "41783129_001.jpg"
+    },
+    "41783094": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ud2f0\ubcfc\ub9ac LX 2WD \uace0\uae09\ud615",
+        "year": 2015,
+        "mileage": "110,467",
+        "price": "750",
+        "img": "41783094_001.jpg"
+    },
+    "41424616": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \ub514\uc824 2.2 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2021,
+        "mileage": "27,736",
+        "price": "3,150",
+        "img": "41424616_001.jpg"
+    },
+    "41634194": {
+        "mark": "\ud604\ub300 \ud22c\uc2fc ix \ub514\uc824 2WD X20 \uc2a4\ub9c8\ud2b8",
+        "year": 2013,
+        "mileage": "75,014",
+        "price": "650",
+        "img": "41634194_001.jpg"
+    },
+    "41527425": {
+        "mark": "\uae30\uc544 \ub354 \ub274 \uc3d8\ub80c\ud1a0 \ub514\uc824 2.2 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2018,
+        "mileage": "89,978",
+        "price": "2,050",
+        "img": "41527425_001.jpg"
+    },
+    "41173540": {
+        "mark": "\uae30\uc544 \uc62c \ub274 K7 2.4 GDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2017,
+        "mileage": "82,717",
+        "price": "1,250",
+        "img": "41173540_001.jpg"
+    },
+    "41822262": {
+        "mark": "\uae30\uc544 \ub274 \uc3d8\ub80c\ud1a0 R \ub514\uc824 2.0 2WD TLX \uc2a4\ud398\uc15c",
+        "year": 2013,
+        "mileage": "67,841",
+        "price": "950",
+        "img": "41822262_001.jpg"
+    },
+    "41759543": {
+        "mark": "\ud604\ub300 i30 (PD) 1.6 \ud130\ubcf4 N Line",
+        "year": 2020,
+        "mileage": "89,623",
+        "price": "1,690",
+        "img": "41759543_001.jpg"
+    },
+    "40989670": {
+        "mark": "Kia Carnival 4th Generation 9-Seater Prestige",
+        "year": 2022,
+        "mileage": "64,874",
+        "price": "2,550",
+        "img": "40989670_001.jpg"
+    },
+    "40032866": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 \ucfe0\ud398 3.5T e-S/C \uac00\uc194\ub9b0 AWD",
+        "year": 2024,
+        "mileage": "68,848",
+        "price": "7,150",
+        "img": "40032866_001.jpg"
+    },
+    "41757623": {
+        "mark": "Genesis GV80 2.5T Gasoline AWD",
+        "year": 2022,
+        "mileage": "31,141",
+        "price": "5,250",
+        "img": "41757623_001.jpg"
+    },
+    "41804135": {
+        "mark": "\ubbf8\ub2c8 \ucfe0\ud37c \ud074\ub7fd\ub9e8 High 2\uc138\ub300",
+        "year": 2019,
+        "mileage": "68,212",
+        "price": "1,620",
+        "img": "41804135_001.jpg"
+    },
+    "41692178": {
+        "mark": "Genesis G90 (RS4) \u0411\u0435\u043d\u0437\u0438\u043d 3.5 Turbo AWD",
+        "year": 2022,
+        "mileage": "54,377",
+        "price": "7,190",
+        "img": "41692178_001.jpg"
+    },
+    "41569577": {
+        "mark": "Kia Carnival 4th Generation 9-Seater Prestige",
+        "year": 2021,
+        "mileage": "135,053",
+        "price": "2,190",
+        "img": "41569577_001.jpg"
+    },
+    "41620755": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S500L 4MATIC",
+        "year": 2021,
+        "mileage": "81,581",
+        "price": "8,100",
+        "img": "41620755_001.jpg"
+    },
+    "41776605": {
+        "mark": "\uae30\uc544 \uc3d8\ub80c\ud1a0 4\uc138\ub300 HEV 1.6 2WD \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2022,
+        "mileage": "50,615",
+        "price": "3,450",
+        "img": "41776605_001.jpg"
+    },
+    "41536171": {
+        "mark": "\ud604\ub300 \ubca0\ub274 1.6 \ud50c\ub7ed\uc2a4",
+        "year": 2021,
+        "mileage": "38,686",
+        "price": "1,950",
+        "img": "41536171_001.jpg"
+    },
+    "41614508": {
+        "mark": "\uc544\uc6b0\ub514 Q5 (FY) 40 TDI \ucf70\ud2b8\ub85c \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2023,
+        "mileage": "55,138",
+        "price": "4,990",
+        "img": "41614508_001.jpg"
+    },
+    "41694180": {
+        "mark": "BMW 6 Series GT (G32) 630i xDrive M Sport",
+        "year": 2024,
+        "mileage": "26,862",
+        "price": "7,690",
+        "img": "41694180_001.jpg"
+    },
+    "41682955": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E300 4MATIC \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2019,
+        "mileage": "99,118",
+        "price": "3,050",
+        "img": "41682955_001.jpg"
+    },
+    "41525703": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \ub514\uc824 2.0 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2022,
+        "mileage": "114,199",
+        "price": "2,250",
+        "img": "41525703_001.jpg"
+    },
+    "41682925": {
+        "mark": "Kia K5 3rd Generation 1.6 Turbo Signature",
+        "year": 2020,
+        "mileage": "47,596",
+        "price": "2,090",
+        "img": "41682925_001.jpg"
+    },
+    "41812895": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \ud558\uc774\ube0c\ub9ac\ub4dc \uc2dc\uadf8\ub2c8\ucc98 2WD",
+        "year": 2022,
+        "mileage": "92,054",
+        "price": "2,790",
+        "img": "41812895_001.jpg"
+    },
+    "41075726": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud330\ub9ac\uc138\uc774\ub4dc \ub514\uc824 2.2 2WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2023,
+        "mileage": "67,889",
+        "price": "4,090",
+        "img": "41075726_001.jpg"
+    },
+    "41817380": {
+        "mark": "\ud604\ub300 \uadf8\ub79c\uc800 HG LPG HG300 \uc774\uadf8\uc81c\ud050\ud2f0\ube0c",
+        "year": 2012,
+        "mileage": "149,660",
+        "price": "730",
+        "img": "41817380_001.jpg"
+    },
+    "40951216": {
+        "mark": "\ubca4\uce20 GLE-\ud074\ub798\uc2a4 W167 GLE450 4MATIC",
+        "year": 2021,
+        "mileage": "41,507",
+        "price": "7,299",
+        "img": "40951216_001.jpg"
+    },
+    "41257599": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E450 4MATIC \ucfe0\ud398",
+        "year": 2020,
+        "mileage": "67,877",
+        "price": "4,520",
+        "img": "41257599_001.jpg"
+    },
+    "41220036": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E450 4MATIC \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2020,
+        "mileage": "102,810",
+        "price": "3,170",
+        "img": "41220036_001.jpg"
+    },
+    "41512087": {
+        "mark": "\uc7ac\uaddc\uc5b4 F-TYPE 3.0 \ucfe0\ud398 X152",
+        "year": 2017,
+        "mileage": "75,095",
+        "price": "2,820",
+        "img": "41512087_001.jpg"
+    },
+    "41266374": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G90 3.8 \ub7ed\uc154\ub9ac",
+        "year": 2019,
+        "mileage": "162,684",
+        "price": "2,460",
+        "img": "41266374_001.jpg"
+    },
+    "41115497": {
+        "mark": "BMW X7 (G07) xDrive 40i M \uc2a4\ud3ec\uce20 6\uc778\uc2b9",
+        "year": 2020,
+        "mileage": "70,375",
+        "price": "7,720",
+        "img": "41115497_001.jpg"
+    },
+    "41257659": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV70 3.5T \uac00\uc194\ub9b0 AWD",
+        "year": 2021,
+        "mileage": "38,345",
+        "price": "3,770",
+        "img": "41257659_001.jpg"
+    },
+    "41268733": {
+        "mark": "Genesis G80 (RG3) Gasoline 3.5 Turbo AWD",
+        "year": 2023,
+        "mileage": "15,216",
+        "price": "5,020",
+        "img": "41268733_001.jpg"
+    },
+    "41293415": {
+        "mark": "Genesis GV80 2.5T Gasoline AWD",
+        "year": 2022,
+        "mileage": "52,339",
+        "price": "4,470",
+        "img": "41293415_001.jpg"
+    },
+    "41494348": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \uc2a4\ud3ec\uce20 2\uc138\ub300 3.0 SDV6 HSE",
+        "year": 2017,
+        "mileage": "106,317",
+        "price": "2,420",
+        "img": "41494348_001.jpg"
+    },
+    "41220018": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S500L 4MATIC",
+        "year": 2021,
+        "mileage": "109,350",
+        "price": "8,610",
+        "img": "41220018_001.jpg"
+    },
+    "40983189": {
+        "mark": "Mercedes-Benz E-Class W213 E350 4MATIC AMG Line",
+        "year": 2021,
+        "mileage": "97,308",
+        "price": "3,460",
+        "img": "40983189_001.jpg"
+    },
+    "40876721": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI \ud504\ub9ac\ubbf8\uc5c4 \ub7ed\uc154\ub9ac",
+        "year": 2019,
+        "mileage": "151,635",
+        "price": "1,570",
+        "img": "40876721_001.jpg"
+    },
+    "41031365": {
+        "mark": "\ud3ec\ub974\uc250 718 \ubc15\uc2a4\ud130 2.5 GTS",
+        "year": 2018,
+        "mileage": "55,442",
+        "price": "6,120",
+        "img": "41031365_001.jpg"
+    },
+    "40286942": {
+        "mark": "\ud3ec\ub974\uc250 \ud30c\ub098\uba54\ub77c (971) 2.9 AWD E-\ud558\uc774\ube0c\ub9ac\ub4dc",
+        "year": 2018,
+        "mileage": "90,461",
+        "price": "7,320",
+        "img": "40286942_001.jpg"
+    },
+    "41447278": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 GV80 3.0 \ub514\uc824 2WD",
+        "year": 2022,
+        "mileage": "87,146",
+        "price": "3,999",
+        "img": "41447278_001.jpg"
+    },
+    "41528045": {
+        "mark": "\uc9c0\ud504 \uccb4\ub85c\ud0a4(KL) 2.4 \ub860\uc9c0\ud29c\ub4dc \ud558\uc774 AWD",
+        "year": 2019,
+        "mileage": "105,445",
+        "price": "1,120",
+        "img": "41528045_001.jpg"
+    },
+    "41528006": {
+        "mark": "Genesis GV80 2.5T Gasoline AWD",
+        "year": 2022,
+        "mileage": "43,846",
+        "price": "4,820",
+        "img": "41528006_001.jpg"
+    },
+    "41745599": {
+        "mark": "Mercedes-Benz S-Class W223 S400 d 4MATIC",
+        "year": 2021,
+        "mileage": "106,888",
+        "price": "7,650",
+        "img": "41745599_001.jpg"
+    },
+    "41660673": {
+        "mark": "Genesis G80 (RG3) Gasoline 3.5 Turbo AWD",
+        "year": 2023,
+        "mileage": "34,618",
+        "price": "4,520",
+        "img": "41660673_001.jpg"
+    },
+    "41558435": {
+        "mark": "\uc7ac\uaddc\uc5b4 XE 20d \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2018,
+        "mileage": "97,991",
+        "price": "860",
+        "img": "41558435_001.jpg"
+    },
+    "41558614": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \uc774\ubcf4\ud06c 2.0 TD4 HSE",
+        "year": 2018,
+        "mileage": "84,170",
+        "price": "1,410",
+        "img": "41558614_001.jpg"
+    },
+    "41558404": {
+        "mark": "BMW 5\uc2dc\ub9ac\uc988 (G30) 530i M \uc2a4\ud3ec\uce20",
+        "year": 2022,
+        "mileage": "60,995",
+        "price": "4,120",
+        "img": "41558404_001.jpg"
+    },
+    "41566066": {
+        "mark": "BMW 8\uc2dc\ub9ac\uc988 (G15) 840d xDrive M \uc2a4\ud3ec\uce20 \uadf8\ub780\ucfe0\ud398",
+        "year": 2020,
+        "mileage": "116,708",
+        "price": "5,620",
+        "img": "41566066_001.jpg"
+    },
+    "41565934": {
+        "mark": "BMW Z4 (G29) sDrive20i M \uc2a4\ud3ec\uce20",
+        "year": 2024,
+        "mileage": "13,583",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41565934_001.jpg"
+    },
+    "41675637": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 (RG3) \uac00\uc194\ub9b0 3.5 \ud130\ubcf4 2WD",
+        "year": 2020,
+        "mileage": "70,382",
+        "price": "3,570",
+        "img": "41675637_001.jpg"
+    },
+    "41675565": {
+        "mark": "\ud3ec\ub974\uc250 \uce74\uc774\uc5d4 (PO536) 3.0 E-\ud558\uc774\ube0c\ub9ac\ub4dc",
+        "year": 2021,
+        "mileage": "95,242",
+        "price": "6,920",
+        "img": "41675565_001.jpg"
+    },
+    "41758029": {
+        "mark": "Mercedes-Benz S-Class W222 S450L 4MATIC",
+        "year": 2020,
+        "mileage": "121,727",
+        "price": "4,720",
+        "img": "41758029_001.jpg"
+    },
+    "41675714": {
+        "mark": "\uc2dc\ud2b8\ub85c\uc5e5/DS DS7 \ud06c\ub85c\uc2a4\ubc31 2.0 BlueHDi \uadf8\ub79c\ub4dc \uc2dc\ud06c",
+        "year": 2021,
+        "mileage": "38,592",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41675714_001.jpg"
+    },
+    "41793439": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W223 S500L 4MATIC",
+        "year": 2022,
+        "mileage": "69,102",
+        "price": "9,820",
+        "img": "41793439_001.jpg"
+    },
+    "41784927": {
+        "mark": "Genesis G90 (RS4) \u0411\u0435\u043d\u0437\u0438\u043d 3.5 Turbo AWD",
+        "year": 2023,
+        "mileage": "35,128",
+        "price": "6,320",
+        "img": "41784927_001.jpg"
+    },
+    "41714997": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \uc774\ubcf4\ud06c 2.0 TD4 SE \ub2e4\uc774\ub098\ubbf9 \ucee8\ubc84\ud130\ube14",
+        "year": 2017,
+        "mileage": "81,297",
+        "price": "2,520",
+        "img": "41714997_001.jpg"
+    },
+    "41247082": {
+        "mark": "\ud604\ub300 \ub9e5\uc2a4\ud06c\ub8e8\uc988 \ub514\uc824(e-VGT) 2.2 2WD \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c \uc2a4\ud398\uc15c",
+        "year": 2013,
+        "mileage": "128,328",
+        "price": "1,099",
+        "img": "41247082_001.jpg"
+    },
+    "41268570": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) SM6 2.0 GDe SE",
+        "year": 2016,
+        "mileage": "91,540",
+        "price": "560",
+        "img": "41268570_001.jpg"
+    },
+    "41406494": {
+        "mark": "BMW X5 (G05) xDrive 45e xLine",
+        "year": 2022,
+        "mileage": "102,561",
+        "price": "5,799",
+        "img": "41406494_001.jpg"
+    },
+    "41517148": {
+        "mark": "\ubcfc\ubcf4 XC90 2\uc138\ub300 T6 \uc778\uc2a4\ud06c\ub9bd\uc158",
+        "year": 2019,
+        "mileage": "107,283",
+        "price": "4,299",
+        "img": "41517148_001.jpg"
+    },
+    "40893645": {
+        "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 \uce74\uace0 3\uc778\uc2b9 \ubaa8\ub358",
+        "year": 2023,
+        "mileage": "132,296",
+        "price": "1,950",
+        "img": "40893645_001.jpg"
+    },
+    "41152560": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G70 2.0T AWD \uc2a4\ud3ec\uce20 \ud328\ud0a4\uc9c0",
+        "year": 2018,
+        "mileage": "106,260",
+        "price": "1,949",
+        "img": "41152560_001.jpg"
+    },
+    "41577406": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud22c\uc2fc \ud558\uc774\ube0c\ub9ac\ub4dc (NX4) HEV 1.6 2WD \uc778\uc2a4\ud37c\ub808\uc774\uc158",
+        "year": 2024,
+        "mileage": "28,874",
+        "price": "3,420",
+        "img": "41577406_001.jpg"
+    },
+    "41626615": {
+        "mark": "\uae30\uc544 K5 3\uc138\ub300 2.0 \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2023,
+        "mileage": "42,740",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41626615_001.jpg"
+    },
+    "41626370": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ud22c\uc2fc (NX4) \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2023,
+        "mileage": "21,778",
+        "price": "2,420",
+        "img": "41626370_001.jpg"
+    },
+    "41812947": {
+        "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 \ud22c\uc5b4\ub7ec 11\uc778\uc2b9 \ubaa8\ub358",
+        "year": 2023,
+        "mileage": "62,270",
+        "price": "2,270",
+        "img": "41812947_001.jpg"
+    },
+    "41697818": {
+        "mark": "Hyundai Palisade Gasoline 3.8 2WD Calligraphy",
+        "year": 2021,
+        "mileage": "98,622",
+        "price": "2,620",
+        "img": "41697818_001.jpg"
+    },
+    "41745647": {
+        "mark": "Genesis G90 3.8 AWD Luxury",
+        "year": 2020,
+        "mileage": "74,875",
+        "price": "3,470",
+        "img": "41745647_001.jpg"
+    },
+    "41818191": {
+        "mark": "\ud604\ub300 \uc544\ubc18\ub5bc AD 1.6 e-VGT \uc2a4\ub9c8\ud2b8 \uc2a4\ud398\uc15c",
+        "year": 2015,
+        "mileage": "159,048",
+        "price": "729",
+        "img": "41818191_001.jpg"
+    },
+    "41476889": {
+        "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 9\uc778\uc2b9 \ub178\ube14\ub808\uc2a4",
+        "year": 2021,
+        "mileage": "122,545",
+        "price": "2,310",
+        "img": "41476889_001.jpg"
+    },
+    "41603082": {
+        "mark": "\uc81c\ub124\uc2dc\uc2a4 G80 3.3 GDI \ud504\ub9ac\ubbf8\uc5c4 \ub7ed\uc154\ub9ac",
+        "year": 2017,
+        "mileage": "67,401",
+        "price": "2,250",
+        "img": "41603082_001.jpg"
+    },
+    "41639621": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E450 4MATIC \uce74\ube0c\ub9ac\uc62c\ub808",
+        "year": 2022,
+        "mileage": "31,270",
+        "price": "6,499",
+        "img": "41639621_001.jpg"
+    },
+    "41795457": {
+        "mark": "BMW 2\uc2dc\ub9ac\uc988 \uadf8\ub780\ucfe0\ud398 (F44) 218d M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "57,727",
+        "price": "2,699",
+        "img": "41795457_001.jpg"
+    },
+    "41697780": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K9 2\uc138\ub300 3.8 GDI AWD \ubca0\uc2a4\ud2b8 \uc140\ub809\uc158 \u2161",
+        "year": 2023,
+        "mileage": "26,875",
+        "price": "4,999",
+        "img": "41697780_001.jpg"
+    },
+    "41742527": {
+        "mark": "BMW 6\uc2dc\ub9ac\uc988 GT (G32) 620d M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "94,944",
+        "price": "3,599",
+        "img": "41742527_001.jpg"
+    },
+    "41784903": {
+        "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 \uac00\uc194\ub9b0 7\uc778\uc2b9 \ub178\ube14\ub808\uc2a4",
+        "year": 2023,
+        "mileage": "42,721",
+        "price": "3,120",
+        "img": "41784903_001.jpg"
+    },
+    "40435376": {
+        "mark": "\ud604\ub300 \uc2a4\ud0c0\ub9ac\uc544 L3.5 \uce74\uace0 5\uc778\uc2b9 \ubaa8\ub358",
+        "year": 2022,
+        "mileage": "48,414",
+        "price": "2,220",
+        "img": "40435376_001.jpg"
+    },
+    "41459679": {
+        "mark": "Genesis G80 3.3 GDI Luxury",
+        "year": 2019,
+        "mileage": "124,999",
+        "price": "1,620",
+        "img": "41459679_001.jpg"
+    },
+    "41512039": {
+        "mark": "\uae30\uc544 \uc140\ud1a0\uc2a4 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \ub178\ube14\ub808\uc2a4",
+        "year": 2020,
+        "mileage": "79,725",
+        "price": "1,870",
+        "img": "41512039_001.jpg"
+    },
+    "41552200": {
+        "mark": "BMW 6\uc2dc\ub9ac\uc988 GT (G32) 620d M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "48,035",
+        "price": "4,899",
+        "img": "41552200_001.jpg"
+    },
+    "41528021": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \uc2dc\uadf8\ub2c8\ucc98 \uadf8\ub798\ube44\ud2f0",
+        "year": 2022,
+        "mileage": "27,573",
+        "price": "2,760",
+        "img": "41528021_001.jpg"
+    },
+    "41820220": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ucea1\ud2f0\ubc14 2WD LT",
+        "year": 2014,
+        "mileage": "140,443",
+        "price": "430",
+        "img": "41820220_001.jpg"
+    },
+    "41412617": {
+        "mark": "BMW iX3 M \uc2a4\ud3ec\uce20",
+        "year": 2021,
+        "mileage": "56,781",
+        "price": "4,390",
+        "img": "41412617_001.jpg"
+    },
+    "41620750": {
+        "mark": "BMW X7 (G07) xDrive 40d \ub514\uc790\uc778 \ud4e8\uc5b4 \uc5d1\uc140\ub7f0\uc2a4 7\uc778\uc2b9",
+        "year": 2020,
+        "mileage": "85,031",
+        "price": "7,450",
+        "img": "41620750_001.jpg"
+    },
+    "41724788": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \ub354 \ub274 \ud30c\uc0ac\ud2b8 2.0 TSI B7",
+        "year": 2018,
+        "mileage": "133,150",
+        "price": "1,000",
+        "img": "41724788_001.jpg"
+    },
+    "41652398": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \ub9e5\uc2a4\ud06c\ub8e8\uc988 \ub514\uc824 2.2 4WD \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2016,
+        "mileage": "127,291",
+        "price": "1,320",
+        "img": "41652398_001.jpg"
+    },
+    "41211396": {
+        "mark": "\ub9c8\uc138\ub77c\ud2f0 \ucf70\ud2b8\ub85c\ud3ec\ub974\ud14c 3.0 V6 \uadf8\ub780\ub8e8\uc3d8",
+        "year": 2019,
+        "mileage": "129,708",
+        "price": "3,350",
+        "img": "41211396_001.jpg"
+    },
+    "41170142": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "40,196",
+        "price": "2,650",
+        "img": "41170142_001.jpg"
+    },
+    "41012790": {
+        "mark": "BMW i3 \uc194+",
+        "year": 2018,
+        "mileage": "35,071",
+        "price": "2,200",
+        "img": "41012790_001.jpg"
+    },
+    "40918027": {
+        "mark": "Kia Mohave The Master Diesel 3.0 4WD 5-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Masters",
+        "year": 2020,
+        "mileage": "53,366",
+        "price": "3,250",
+        "img": "40918027_001.jpg"
+    },
+    "41356367": {
+        "mark": "\uc544\uc6b0\ub514 Q7 (4M) 45 TDI \ucf70\ud2b8\ub85c \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2020,
+        "mileage": "70,409",
+        "price": "5,400",
+        "img": "41356367_001.jpg"
+    },
+    "41595106": {
+        "mark": "\uc778\ud53c\ub2c8\ud2f0 Q30 2.0 \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2017,
+        "mileage": "100,910",
+        "price": "1,050",
+        "img": "41595106_001.jpg"
+    },
+    "41170185": {
+        "mark": "\ud3ed\uc2a4\ubc14\uac90 \ud22c\uc544\ub809 3\uc138\ub300 3.0 TDI \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2023,
+        "mileage": "76,023",
+        "price": "6,400",
+        "img": "41170185_001.jpg"
+    },
+    "41119871": {
+        "mark": "BMW 4\uc2dc\ub9ac\uc988 (F32) 420i M \uc2a4\ud3ec\uce20 \ucfe0\ud398",
+        "year": 2018,
+        "mileage": "127,507",
+        "price": "1,900",
+        "img": "41119871_001.jpg"
+    },
+    "41467473": {
+        "mark": "\ub9c8\uc138\ub77c\ud2f0 \ub974\ubc18\ub5bc 3.0 AWD \uadf8\ub780\uc2a4\ud3ec\uce20",
+        "year": 2020,
+        "mileage": "15,801",
+        "price": "5,990",
+        "img": "41467473_001.jpg"
+    },
+    "41468226": {
+        "mark": "Mercedes-Benz E-Class W214 E200 Avantgarde",
+        "year": 2024,
+        "mileage": "24,002",
+        "price": "5,350",
+        "img": "41468226_001.jpg"
+    },
+    "41365910": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \uc2a4\ud3ec\uce20 3\uc138\ub300 P360 AB",
+        "year": 2023,
+        "mileage": "32,294",
+        "price": "11,800",
+        "img": "41365910_001.jpg"
+    },
+    "41365894": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub808\uc778\uc9c0\ub85c\ubc84 \uc2a4\ud3ec\uce20 3\uc138\ub300 P360 AB",
+        "year": 2023,
+        "mileage": "90,340",
+        "price": "10,700",
+        "img": "41365894_001.jpg"
+    },
+    "41621772": {
+        "mark": "Mercedes-Benz CLE-Class C236 CLE450 4MATIC Coupe",
+        "year": 2025,
+        "mileage": "32,629",
+        "price": "7,590",
+        "img": "41621772_001.jpg"
+    },
+    "41198534": {
+        "mark": "Mercedes-Benz CLA-Class C118 CLA250 4MATIC",
+        "year": 2022,
+        "mileage": "11,874",
+        "price": "4,090",
+        "img": "41198534_001.jpg"
+    },
+    "40858107": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E450 4MATIC \uc775\uc2a4\ud074\ub8e8\uc2dc\ube0c",
+        "year": 2019,
+        "mileage": "84,430",
+        "price": "3,450",
+        "img": "40858107_001.jpg"
+    },
+    "41782799": {
+        "mark": "Hyundai Grandeur Hybrid (GN7) Premium",
+        "year": 2024,
+        "mileage": "22,605",
+        "price": "3,780",
+        "img": "41782799_001.jpg"
+    },
+    "41759508": {
+        "mark": "\ubca4\uce20 S-\ud074\ub798\uc2a4 W222 S350L d 4MATIC",
+        "year": 2017,
+        "mileage": "71,691",
+        "price": "4,450",
+        "img": "41759508_001.jpg"
+    },
+    "41745247": {
+        "mark": "BMW 5\uc2dc\ub9ac\uc988 (G30) 530i M \uc2a4\ud3ec\uce20 \ud50c\ub7ec\uc2a4",
+        "year": 2020,
+        "mileage": "30,734",
+        "price": "3,550",
+        "img": "41745247_001.jpg"
+    },
+    "41727429": {
+        "mark": "BMW iX xDrive50 \uc2a4\ud3ec\uce20 \ud50c\ub7ec\uc2a4",
+        "year": 2022,
+        "mileage": "64,369",
+        "price": "8,370",
+        "img": "41727429_001.jpg"
+    },
+    "41687680": {
+        "mark": "Mercedes-Benz E-Class W213 E350 4MATIC AMG Line",
+        "year": 2021,
+        "mileage": "51,735",
+        "price": "4,670",
+        "img": "41687680_001.jpg"
+    },
+    "41401133": {
+        "mark": "\uae30\uc544 K5 3\uc138\ub300 2.0 \ub178\ube14\ub808\uc2a4",
+        "year": 2020,
+        "mileage": "59,652",
+        "price": "1,990",
+        "img": "41401133_001.jpg"
+    },
+    "41223314": {
+        "mark": "\ubca4\uce20 GLC-\ud074\ub798\uc2a4 X253 GLC300 4MATIC",
+        "year": 2022,
+        "mileage": "36,423",
+        "price": "\uacc4\uc57d\uc911",
+        "img": "41223314_001.jpg"
+    },
+    "41206734": {
+        "mark": "\ubca4\uce20 GLE-\ud074\ub798\uc2a4 W167 AMG GLE53 4MATIC+",
+        "year": 2023,
+        "mileage": "40,021",
+        "price": "10,700",
+        "img": "41206734_001.jpg"
+    },
+    "41321992": {
+        "mark": "Mercedes-Benz G-Class W463b AMG G63 Edition",
+        "year": 2021,
+        "mileage": "41,024",
+        "price": "19,900",
+        "img": "41321992_001.jpg"
+    },
+    "41129091": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ub354 \ub274 \ud2b8\ub799\uc2a4 1.4 \ud37c\ud399\ud2b8 \ube14\ub799",
+        "year": 2018,
+        "mileage": "62,967",
+        "price": "1,290",
+        "img": "41129091_001.jpg"
+    },
+    "41108416": {
+        "mark": "Genesis GV70 2.5T \u0411\u0435\u043d\u0437\u0438\u043d AWD",
+        "year": 2022,
+        "mileage": "76,359",
+        "price": "3,780",
+        "img": "41108416_001.jpg"
+    },
+    "41108217": {
+        "mark": "\uae30\uc544 \ub354 \ub274 K5 3\uc138\ub300 1.6 \ud130\ubcf4 \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2025,
+        "mileage": "3,626",
+        "price": "3,360",
+        "img": "41108217_001.jpg"
+    },
+    "41081912": {
+        "mark": "Hyundai Staria Tourer 9-seater Modern",
+        "year": 2022,
+        "mileage": "70,154",
+        "price": "2,690",
+        "img": "41081912_001.jpg"
+    },
+    "40922022": {
+        "mark": "\uc544\uc6b0\ub514 A6 (C8) 45 TFSI",
+        "year": 2023,
+        "mileage": "5,147",
+        "price": "3,950",
+        "img": "40922022_001.jpg"
+    },
+    "41264847": {
+        "mark": "BMW X5 (G05) xDrive 40i M \uc2a4\ud3ec\uce20",
+        "year": 2022,
+        "mileage": "51,108",
+        "price": "7,370",
+        "img": "41264847_001.jpg"
+    },
+    "41273067": {
+        "mark": "\ubbf8\ub2c8 \ucfe0\ud37c S \ucee8\ud2b8\ub9ac\ub9e8 JCW 2\uc138\ub300",
+        "year": 2022,
+        "mileage": "31,561",
+        "price": "3,100",
+        "img": "41273067_027.jpg"
+    },
+    "41274941": {
+        "mark": "Mercedes-Benz E-Class W213 E350 4MATIC AMG Line",
+        "year": 2019,
+        "mileage": "115,610",
+        "price": "2,790",
+        "img": "41274941_001.jpg"
+    },
+    "41287165": {
+        "mark": "\uae30\uc544 \uc2a4\ud3ec\ud2f0\uc9c0 5\uc138\ub300 \uac00\uc194\ub9b0 1.6 \ud130\ubcf4 2WD \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2022,
+        "mileage": "66,275",
+        "price": "2,620",
+        "img": "41287165_001.jpg"
+    },
+    "41270426": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) XM3 1.6 E-TECH \uc778\uc2a4\ud30c\uc774\uc5b4 e-\uc2dc\ud504\ud130",
+        "year": 2023,
+        "mileage": "47,733",
+        "price": "1,950",
+        "img": "41270426_001.jpg"
+    },
+    "41101844": {
+        "mark": "\ud604\ub300 \ud330\ub9ac\uc138\uc774\ub4dc \uac00\uc194\ub9b0 3.8 2WD \ud504\ub808\uc2a4\ud2f0\uc9c0",
+        "year": 2022,
+        "mileage": "44,293",
+        "price": "3,050",
+        "img": "41101844_001.jpg"
+    },
+    "40965057": {
+        "mark": "BMW X5 (G05) xDrive 30d xLine",
+        "year": 2022,
+        "mileage": "97,637",
+        "price": "6,190",
+        "img": "40965057_001.jpg"
+    },
+    "41262083": {
+        "mark": "\uae30\uc544 \uce74\ub2c8\ubc1c 4\uc138\ub300 9\uc778\uc2b9 \ub178\ube14\ub808\uc2a4",
+        "year": 2022,
+        "mileage": "83,820",
+        "price": "3,280",
+        "img": "41262083_001.jpg"
+    },
+    "41809939": {
+        "mark": "\uae30\uc544 K5 \ud558\uc774\ube0c\ub9ac\ub4dc 3\uc138\ub300 \ub178\ube14\ub808\uc2a4",
+        "year": 2020,
+        "mileage": "37,304",
+        "price": "2,350",
+        "img": "41809939_001.jpg"
+    },
+    "41774181": {
+        "mark": "\ud604\ub300 \uc3d8\ub098\ud0c0 \ud558\uc774\ube0c\ub9ac\ub4dc 2.0 \ub85c\uc5f4",
+        "year": 2012,
+        "mileage": "162,978",
+        "price": "390",
+        "img": "41774181_001.jpg"
+    },
+    "41401065": {
+        "mark": "\ubca4\uce20 E-\ud074\ub798\uc2a4 W213 E250 \uc544\ubc29\uac00\ub974\ub4dc",
+        "year": 2020,
+        "mileage": "122,285",
+        "price": "3,090",
+        "img": "41401065_001.jpg"
+    },
+    "41774937": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uce90\uc2a4\ud37c \ud130\ubcf4 \uc778\uc2a4\ud37c\ub808\uc774\uc158",
+        "year": 2026,
+        "mileage": "21",
+        "price": "2,380",
+        "img": "41774937_001.jpg"
+    },
+    "41770871": {
+        "mark": "\ub974\ub178\ucf54\ub9ac\uc544(\uc0bc\uc131) XM3 1.3 TCe RE \uc2dc\uadf8\ub2c8\ucc98",
+        "year": 2020,
+        "mileage": "81,002",
+        "price": "1,380",
+        "img": "41770871_001.jpg"
+    },
+    "41740754": {
+        "mark": "\ud63c\ub2e4 \uc5b4\ucf54\ub4dc 10\uc138\ub300 2.0 \ud558\uc774\ube0c\ub9ac\ub4dc \ud22c\uc5b4\ub9c1",
+        "year": 2019,
+        "mileage": "91,709",
+        "price": "2,150",
+        "img": "41740754_001.jpg"
+    },
+    "41744770": {
+        "mark": "\uc544\uc6b0\ub514 A5 (F5) 45 TFSI \ucf70\ud2b8\ub85c \ucfe0\ud398",
+        "year": 2021,
+        "mileage": "64,896",
+        "price": "3,330",
+        "img": "41744770_027.jpg"
+    },
+    "41742577": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \ub354 \ub274 \ud2b8\ub799\uc2a4 1.4 \ud37c\ud399\ud2b8 \ube14\ub799",
+        "year": 2017,
+        "mileage": "175,401",
+        "price": "599",
+        "img": "41742577_001.jpg"
+    },
+    "41730056": {
+        "mark": "\ub79c\ub4dc\ub85c\ubc84 \ub514\ud39c\ub354 (L663) 110 D250 SE",
+        "year": 2021,
+        "mileage": "97,753",
+        "price": "6,690",
+        "img": "41730056_001.jpg"
+    },
+    "41714838": {
+        "mark": "\uc250\ubcf4\ub808(GM\ub300\uc6b0) \uc54c\ud398\uc628 EL240 \ud504\ub9ac\ubbf8\uc5c4",
+        "year": 2013,
+        "mileage": "70,186",
+        "price": "680",
+        "img": "41714838_001.jpg"
+    },
+    "41687826": {
+        "mark": "Kia Ray Luxury",
+        "year": 2012,
+        "mileage": "91,841",
+        "price": "600",
+        "img": "41687826_001.jpg"
+    },
+    "41682836": {
+        "mark": "\uc544\uc6b0\ub514 Q4 e-\ud2b8\ub860 (F4) 40",
+        "year": 2022,
+        "mileage": "79,029",
+        "price": "3,450",
+        "img": "41682836_001.jpg"
+    },
+    "41676220": {
+        "mark": "Kia All New Carnival 9-\u043c\u0435\u0441\u0442\u043d\u044b\u0439 Noblesse",
+        "year": 2015,
+        "mileage": "127,615",
+        "price": "1,049",
+        "img": "41676220_001.jpg"
+    },
+    "41661719": {
+        "mark": "\ud604\ub300 \uce90\uc2a4\ud37c \ud130\ubcf4 \ub514 \uc5d0\uc13c\uc15c",
+        "year": 2022,
+        "mileage": "17,598",
+        "price": "1,620",
+        "img": "41661719_001.jpg"
+    },
+    "41650602": {
+        "mark": "KG\ubaa8\ube4c\ub9ac\ud2f0(\uc30d\uc6a9) \ucf54\ub780\ub3c4 \uc2a4\ud3ec\uce20 \uc5b4\ub4dc\ubca4\ucc98 60th \uc5d0\ub514\uc158 4WD",
+        "year": 2014,
+        "mileage": "69,669",
+        "price": "1,190",
+        "img": "41650602_001.jpg"
+    },
+    "41644855": {
+        "mark": "\ud604\ub300 \uc5d1\uc13c\ud2b8(\uc2e0\ud615) \ub514\uc824 1.6 VGT \uc2a4\ub9c8\ud2b8",
+        "year": 2015,
+        "mileage": "118,830",
+        "price": "440",
+        "img": "41644855_001.jpg"
+    },
+    "41632578": {
+        "mark": "\ud604\ub300 \ub354 \ub274 \uc2fc\ud0c0\ud398 \uac00\uc194\ub9b0 2.5T 4WD \uce98\ub9ac\uadf8\ub798\ud53c",
+        "year": 2021,
+        "mileage": "155,388",
+        "price": "2,630",
+        "img": "41632578_001.jpg"
+    },
+    "41601479": {
+        "mark": "\ubcfc\ubcf4 S90 B6 AWD \uc778\uc2a4\ud06c\ub9bd\uc158",
+        "year": 2021,
+        "mileage": "78,341",
+        "price": "3,590",
+        "img": "41601479_001.jpg"
+    }
 }
