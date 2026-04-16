@@ -1,4 +1,8 @@
 # Парсинг корейского сайта продажи машин и лендинг для резултатов парсинга
+## Стек
+Парсинг: selenium + beautifulsoup4  
+Лендинг: FastAPI + Jinja2 + pydantic  
+
 ## Установите виртуальное окружение и зависимости
 python3.11 -m venv .venv  
 source .venv/bin/activate  
